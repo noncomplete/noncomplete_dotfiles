@@ -2,7 +2,7 @@
 
 My unorganized dotfiles for Arch Linux.
 
-May contain --
+May contain ———
 +   tiling window managers (i3, sway)
 +   neovim
 +   alacritty
