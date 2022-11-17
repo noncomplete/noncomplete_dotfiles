@@ -1,0 +1,1857 @@
+2022-07-26 08:38:27 Loading main app package /tmp/.mount_Obsidin3VXuX/resources/obsidian.asar
+2022-07-26 08:38:27 Checking for update using Github
+2022-07-26 08:38:33 Success.
+2022-07-26 08:38:33 Latest version is 0.15.8
+2022-07-26 08:38:33 App is up to date.
+2022-07-26 16:24:33 Loading main app package /tmp/.mount_ObsidipF2REh/resources/obsidian.asar
+2022-07-26 16:24:34 Checking for update using Github
+2022-07-26 16:24:39 Success.
+2022-07-26 16:24:39 Latest version is 0.15.8
+2022-07-26 16:24:39 App is up to date.
+2022-07-26 17:24:34 Checking for update using Github
+2022-07-26 17:24:34 Failed to check for update using Github (net::ERR_INTERNET_DISCONNECTED)
+2022-07-26 17:24:34 Checking for update using obsidian.md
+2022-07-26 17:24:34 Failed to check for update using obsidian.md (net::ERR_INTERNET_DISCONNECTED)
+2022-07-26 18:24:34 Checking for update using Github
+2022-07-26 18:24:39 Success.
+2022-07-26 18:24:39 Latest version is 0.15.8
+2022-07-26 18:24:39 App is up to date.
+2022-07-26 19:24:34 Checking for update using Github
+2022-07-26 19:24:39 Success.
+2022-07-26 19:24:39 Latest version is 0.15.9
+2022-07-26 19:24:39 Downloading update from https://github.com/obsidianmd/obsidian-releases/releases/download/v0.15.9/obsidian-0.15.9.asar.gz
+2022-07-26 19:24:43 Verifying hash & signature. Size= 5641851
+2022-07-26 19:24:43 Saving file
+2022-07-26 19:24:43 Update complete.
+2022-07-26 20:24:34 Checking for update using Github
+2022-07-26 20:24:39 Success.
+2022-07-26 20:24:39 Latest version is 0.15.9
+2022-07-26 20:24:39 An update is already downloaded.
+2022-07-26 21:24:34 Checking for update using Github
+2022-07-26 21:24:39 Success.
+2022-07-26 21:24:39 Latest version is 0.15.9
+2022-07-26 21:24:39 An update is already downloaded.
+2022-07-26 22:24:34 Checking for update using Github
+2022-07-26 22:24:39 Success.
+2022-07-26 22:24:39 Latest version is 0.15.9
+2022-07-26 22:24:39 An update is already downloaded.
+2022-07-26 23:24:34 Checking for update using Github
+2022-07-26 23:24:39 Success.
+2022-07-26 23:24:39 Latest version is 0.15.9
+2022-07-26 23:24:39 An update is already downloaded.
+2022-07-27 00:24:34 Checking for update using Github
+2022-07-27 00:24:39 Success.
+2022-07-27 00:24:39 Latest version is 0.15.9
+2022-07-27 00:24:39 An update is already downloaded.
+2022-07-27 01:24:34 Checking for update using Github
+2022-07-27 01:24:39 Success.
+2022-07-27 01:24:39 Latest version is 0.15.9
+2022-07-27 01:24:39 An update is already downloaded.
+2022-07-27 02:24:34 Checking for update using Github
+2022-07-27 02:24:39 Success.
+2022-07-27 02:24:39 Latest version is 0.15.9
+2022-07-27 02:24:39 An update is already downloaded.
+2022-07-27 03:24:34 Checking for update using Github
+2022-07-27 03:24:40 Success.
+2022-07-27 03:24:40 Latest version is 0.15.9
+2022-07-27 03:24:40 An update is already downloaded.
+2022-07-27 04:24:34 Checking for update using Github
+2022-07-27 04:24:35 Success.
+2022-07-27 04:24:35 Latest version is 0.15.9
+2022-07-27 04:24:35 An update is already downloaded.
+2022-07-27 05:24:34 Checking for update using Github
+2022-07-27 05:24:40 Success.
+2022-07-27 05:24:40 Latest version is 0.15.9
+2022-07-27 05:24:40 An update is already downloaded.
+2022-07-27 06:24:34 Checking for update using Github
+2022-07-27 06:24:34 Failed to check for update using Github (net::ERR_INTERNET_DISCONNECTED)
+2022-07-27 06:24:34 Checking for update using obsidian.md
+2022-07-27 06:24:34 Failed to check for update using obsidian.md (net::ERR_INTERNET_DISCONNECTED)
+2022-07-27 07:24:35 Checking for update using Github
+2022-07-27 07:24:40 Success.
+2022-07-27 07:24:40 Latest version is 0.15.9
+2022-07-27 07:24:40 An update is already downloaded.
+2022-07-27 08:24:35 Checking for update using Github
+2022-07-27 08:24:35 Success.
+2022-07-27 08:24:35 Latest version is 0.15.9
+2022-07-27 08:24:35 An update is already downloaded.
+2022-07-27 09:24:35 Checking for update using Github
+2022-07-27 09:24:40 Success.
+2022-07-27 09:24:40 Latest version is 0.15.9
+2022-07-27 09:24:40 An update is already downloaded.
+2022-07-27 10:24:35 Checking for update using Github
+2022-07-27 10:24:35 Failed to check for update using Github (net::ERR_INTERNET_DISCONNECTED)
+2022-07-27 10:24:35 Checking for update using obsidian.md
+2022-07-27 10:24:35 Failed to check for update using obsidian.md (net::ERR_INTERNET_DISCONNECTED)
+2022-07-27 11:24:35 Checking for update using Github
+2022-07-27 11:24:40 Success.
+2022-07-27 11:24:40 Latest version is 0.15.9
+2022-07-27 11:24:40 An update is already downloaded.
+2022-07-27 12:24:35 Checking for update using Github
+2022-07-27 12:24:40 Success.
+2022-07-27 12:24:40 Latest version is 0.15.9
+2022-07-27 12:24:40 An update is already downloaded.
+2022-07-27 13:24:35 Checking for update using Github
+2022-07-27 13:24:35 Success.
+2022-07-27 13:24:35 Latest version is 0.15.9
+2022-07-27 13:24:35 An update is already downloaded.
+2022-07-27 14:24:35 Checking for update using Github
+2022-07-27 14:24:35 Failed to check for update using Github (net::ERR_INTERNET_DISCONNECTED)
+2022-07-27 14:24:35 Checking for update using obsidian.md
+2022-07-27 14:24:35 Failed to check for update using obsidian.md (net::ERR_INTERNET_DISCONNECTED)
+2022-07-27 15:24:35 Checking for update using Github
+2022-07-27 15:24:40 Success.
+2022-07-27 15:24:40 Latest version is 0.15.9
+2022-07-27 15:24:40 An update is already downloaded.
+2022-07-27 16:24:35 Checking for update using Github
+2022-07-27 16:24:40 Success.
+2022-07-27 16:24:40 Latest version is 0.15.9
+2022-07-27 16:24:40 An update is already downloaded.
+2022-07-27 17:24:35 Checking for update using Github
+2022-07-27 17:24:40 Success.
+2022-07-27 17:24:40 Latest version is 0.15.9
+2022-07-27 17:24:40 An update is already downloaded.
+2022-07-27 18:24:35 Checking for update using Github
+2022-07-27 18:24:35 Failed to check for update using Github (net::ERR_INTERNET_DISCONNECTED)
+2022-07-27 18:24:35 Checking for update using obsidian.md
+2022-07-27 18:24:35 Failed to check for update using obsidian.md (net::ERR_INTERNET_DISCONNECTED)
+2022-07-27 19:24:35 Checking for update using Github
+2022-07-27 19:24:41 Success.
+2022-07-27 19:24:41 Latest version is 0.15.9
+2022-07-27 19:24:41 An update is already downloaded.
+2022-07-27 20:24:36 Checking for update using Github
+2022-07-27 20:24:41 Success.
+2022-07-27 20:24:41 Latest version is 0.15.9
+2022-07-27 20:24:41 An update is already downloaded.
+2022-07-27 21:24:36 Checking for update using Github
+2022-07-27 21:24:36 Success.
+2022-07-27 21:24:36 Latest version is 0.15.9
+2022-07-27 21:24:36 An update is already downloaded.
+2022-07-27 22:24:36 Checking for update using Github
+2022-07-27 22:24:41 Success.
+2022-07-27 22:24:41 Latest version is 0.15.9
+2022-07-27 22:24:41 An update is already downloaded.
+2022-07-27 23:24:36 Checking for update using Github
+2022-07-27 23:24:36 Success.
+2022-07-27 23:24:36 Latest version is 0.15.9
+2022-07-27 23:24:36 An update is already downloaded.
+2022-07-28 00:24:36 Checking for update using Github
+2022-07-28 00:24:36 Success.
+2022-07-28 00:24:36 Latest version is 0.15.9
+2022-07-28 00:24:36 An update is already downloaded.
+2022-07-28 01:24:36 Checking for update using Github
+2022-07-28 01:24:41 Success.
+2022-07-28 01:24:41 Latest version is 0.15.9
+2022-07-28 01:24:41 An update is already downloaded.
+2022-07-28 02:24:36 Checking for update using Github
+2022-07-28 02:24:41 Success.
+2022-07-28 02:24:41 Latest version is 0.15.9
+2022-07-28 02:24:41 An update is already downloaded.
+2022-07-28 03:24:36 Checking for update using Github
+2022-07-28 03:24:36 Success.
+2022-07-28 03:24:36 Latest version is 0.15.9
+2022-07-28 03:24:36 An update is already downloaded.
+2022-07-28 04:24:36 Checking for update using Github
+2022-07-28 04:24:37 Success.
+2022-07-28 04:24:37 Latest version is 0.15.9
+2022-07-28 04:24:37 An update is already downloaded.
+2022-07-28 05:24:36 Checking for update using Github
+2022-07-28 05:24:36 Failed to check for update using Github (net::ERR_INTERNET_DISCONNECTED)
+2022-07-28 05:24:36 Checking for update using obsidian.md
+2022-07-28 05:24:36 Failed to check for update using obsidian.md (net::ERR_INTERNET_DISCONNECTED)
+2022-07-28 06:24:37 Checking for update using Github
+2022-07-28 06:24:42 Success.
+2022-07-28 06:24:42 Latest version is 0.15.9
+2022-07-28 06:24:42 An update is already downloaded.
+2022-07-28 07:24:37 Checking for update using Github
+2022-07-28 07:24:42 Success.
+2022-07-28 07:24:42 Latest version is 0.15.9
+2022-07-28 07:24:42 An update is already downloaded.
+2022-07-28 08:14:19 Loading updated app package /home/noncomplete/.config/obsidian/obsidian-0.15.9.asar
+2022-07-28 08:14:19 Checking for update using Github
+2022-07-28 08:14:24 Success.
+2022-07-28 08:14:24 Latest version is 0.15.9
+2022-07-28 08:14:24 App is up to date.
+2022-07-28 09:14:19 Checking for update using Github
+2022-07-28 09:14:19 Failed to check for update using Github (net::ERR_INTERNET_DISCONNECTED)
+2022-07-28 09:14:19 Checking for update using obsidian.md
+2022-07-28 09:14:19 Failed to check for update using obsidian.md (net::ERR_INTERNET_DISCONNECTED)
+2022-07-28 10:14:19 Checking for update using Github
+2022-07-28 10:14:19 Success.
+2022-07-28 10:14:19 Latest version is 0.15.9
+2022-07-28 10:14:19 App is up to date.
+2022-07-28 11:14:19 Checking for update using Github
+2022-07-28 11:14:24 Success.
+2022-07-28 11:14:24 Latest version is 0.15.9
+2022-07-28 11:14:24 App is up to date.
+2022-07-28 12:14:19 Checking for update using Github
+2022-07-28 12:14:24 Success.
+2022-07-28 12:14:24 Latest version is 0.15.9
+2022-07-28 12:14:24 App is up to date.
+2022-07-28 13:14:19 Checking for update using Github
+2022-07-28 13:14:25 Success.
+2022-07-28 13:14:25 Latest version is 0.15.9
+2022-07-28 13:14:25 App is up to date.
+2022-07-28 14:14:19 Checking for update using Github
+2022-07-28 14:14:19 Success.
+2022-07-28 14:14:19 Latest version is 0.15.9
+2022-07-28 14:14:19 App is up to date.
+2022-07-28 15:14:19 Checking for update using Github
+2022-07-28 15:14:25 Success.
+2022-07-28 15:14:25 Latest version is 0.15.9
+2022-07-28 15:14:25 App is up to date.
+2022-07-28 16:14:19 Checking for update using Github
+2022-07-28 16:14:20 Success.
+2022-07-28 16:14:20 Latest version is 0.15.9
+2022-07-28 16:14:20 App is up to date.
+2022-07-28 17:14:20 Checking for update using Github
+2022-07-28 17:14:20 Success.
+2022-07-28 17:14:20 Latest version is 0.15.9
+2022-07-28 17:14:20 App is up to date.
+2022-07-28 18:14:20 Checking for update using Github
+2022-07-28 18:14:20 Success.
+2022-07-28 18:14:20 Latest version is 0.15.9
+2022-07-28 18:14:20 App is up to date.
+2022-07-28 19:19:34 Checking for update using Github
+2022-07-28 19:19:39 Success.
+2022-07-28 19:19:39 Latest version is 0.15.9
+2022-07-28 19:19:39 App is up to date.
+2022-07-29 05:04:08 Checking for update using Github
+2022-07-29 05:04:08 Success.
+2022-07-29 05:04:08 Latest version is 0.15.9
+2022-07-29 05:04:08 App is up to date.
+2022-07-29 06:04:08 Checking for update using Github
+2022-07-29 06:04:08 Success.
+2022-07-29 06:04:08 Latest version is 0.15.9
+2022-07-29 06:04:08 App is up to date.
+2022-07-29 07:04:08 Checking for update using Github
+2022-07-29 07:04:08 Success.
+2022-07-29 07:04:08 Latest version is 0.15.9
+2022-07-29 07:04:08 App is up to date.
+2022-07-29 08:04:08 Checking for update using Github
+2022-07-29 08:04:13 Success.
+2022-07-29 08:04:13 Latest version is 0.15.9
+2022-07-29 08:04:13 App is up to date.
+2022-07-29 09:04:08 Checking for update using Github
+2022-07-29 09:04:09 Success.
+2022-07-29 09:04:09 Latest version is 0.15.9
+2022-07-29 09:04:09 App is up to date.
+2022-07-29 10:04:08 Checking for update using Github
+2022-07-29 10:04:09 Success.
+2022-07-29 10:04:09 Latest version is 0.15.9
+2022-07-29 10:04:09 App is up to date.
+2022-07-29 11:04:08 Checking for update using Github
+2022-07-29 11:04:09 Success.
+2022-07-29 11:04:09 Latest version is 0.15.9
+2022-07-29 11:04:09 App is up to date.
+2022-07-29 12:04:08 Checking for update using Github
+2022-07-29 12:04:08 Failed to check for update using Github (net::ERR_INTERNET_DISCONNECTED)
+2022-07-29 12:04:08 Checking for update using obsidian.md
+2022-07-29 12:04:08 Failed to check for update using obsidian.md (net::ERR_INTERNET_DISCONNECTED)
+2022-07-29 13:04:08 Checking for update using Github
+2022-07-29 13:04:09 Success.
+2022-07-29 13:04:09 Latest version is 0.15.9
+2022-07-29 13:04:09 App is up to date.
+2022-07-29 14:04:08 Checking for update using Github
+2022-07-29 14:04:09 Success.
+2022-07-29 14:04:09 Latest version is 0.15.9
+2022-07-29 14:04:09 App is up to date.
+2022-07-29 15:04:09 Checking for update using Github
+2022-07-29 15:04:14 Success.
+2022-07-29 15:04:14 Latest version is 0.15.9
+2022-07-29 15:04:14 App is up to date.
+2022-07-29 16:04:09 Checking for update using Github
+2022-07-29 16:04:14 Success.
+2022-07-29 16:04:14 Latest version is 0.15.9
+2022-07-29 16:04:14 App is up to date.
+2022-07-29 17:04:09 Checking for update using Github
+2022-07-29 17:04:09 Success.
+2022-07-29 17:04:09 Latest version is 0.15.9
+2022-07-29 17:04:09 App is up to date.
+2022-07-29 18:04:09 Checking for update using Github
+2022-07-29 18:04:14 Success.
+2022-07-29 18:04:14 Latest version is 0.15.9
+2022-07-29 18:04:14 App is up to date.
+2022-07-29 19:04:09 Checking for update using Github
+2022-07-29 19:04:09 Success.
+2022-07-29 19:04:09 Latest version is 0.15.9
+2022-07-29 19:04:09 App is up to date.
+2022-08-22 16:54:54 Loading updated app package /home/noncomplete/.config/obsidian/obsidian-0.15.9.asar
+2022-08-22 16:54:55 Checking for update using Github
+2022-08-22 16:55:00 Success.
+2022-08-22 16:55:00 Latest version is 0.15.9
+2022-08-22 16:55:00 App is up to date.
+2022-08-22 17:54:54 Checking for update using Github
+2022-08-22 17:54:59 Success.
+2022-08-22 17:54:59 Latest version is 0.15.9
+2022-08-22 17:54:59 App is up to date.
+2022-08-22 18:54:54 Checking for update using Github
+2022-08-22 18:55:00 Success.
+2022-08-22 18:55:00 Latest version is 0.15.9
+2022-08-22 18:55:00 App is up to date.
+2022-08-22 19:54:54 Checking for update using Github
+2022-08-22 19:54:59 Success.
+2022-08-22 19:54:59 Latest version is 0.15.9
+2022-08-22 19:54:59 App is up to date.
+2022-08-22 20:54:54 Checking for update using Github
+2022-08-22 20:54:59 Success.
+2022-08-22 20:54:59 Latest version is 0.15.9
+2022-08-22 20:54:59 App is up to date.
+2022-08-22 21:54:54 Checking for update using Github
+2022-08-22 21:54:59 Success.
+2022-08-22 21:54:59 Latest version is 0.15.9
+2022-08-22 21:54:59 App is up to date.
+2022-08-22 22:54:54 Checking for update using Github
+2022-08-22 22:54:59 Success.
+2022-08-22 22:54:59 Latest version is 0.15.9
+2022-08-22 22:54:59 App is up to date.
+2022-08-22 23:54:54 Checking for update using Github
+2022-08-22 23:55:00 Success.
+2022-08-22 23:55:00 Latest version is 0.15.9
+2022-08-22 23:55:00 App is up to date.
+2022-08-23 00:54:54 Checking for update using Github
+2022-08-23 00:55:00 Success.
+2022-08-23 00:55:00 Latest version is 0.15.9
+2022-08-23 00:55:00 App is up to date.
+2022-08-23 01:54:54 Checking for update using Github
+2022-08-23 01:54:55 Success.
+2022-08-23 01:54:55 Latest version is 0.15.9
+2022-08-23 01:54:55 App is up to date.
+2022-08-23 02:54:55 Checking for update using Github
+2022-08-23 02:54:55 Success.
+2022-08-23 02:54:55 Latest version is 0.15.9
+2022-08-23 02:54:55 App is up to date.
+2022-08-23 03:54:55 Checking for update using Github
+2022-08-23 03:54:55 Success.
+2022-08-23 03:54:55 Latest version is 0.15.9
+2022-08-23 03:54:55 App is up to date.
+2022-08-23 04:54:55 Checking for update using Github
+2022-08-23 04:55:00 Success.
+2022-08-23 04:55:00 Latest version is 0.15.9
+2022-08-23 04:55:00 App is up to date.
+2022-08-23 05:54:55 Checking for update using Github
+2022-08-23 05:55:00 Success.
+2022-08-23 05:55:00 Latest version is 0.15.9
+2022-08-23 05:55:00 App is up to date.
+2022-08-23 06:54:55 Checking for update using Github
+2022-08-23 06:55:00 Success.
+2022-08-23 06:55:00 Latest version is 0.15.9
+2022-08-23 06:55:00 App is up to date.
+2022-08-23 07:54:55 Checking for update using Github
+2022-08-23 07:54:55 Success.
+2022-08-23 07:54:55 Latest version is 0.15.9
+2022-08-23 07:54:55 App is up to date.
+2022-08-23 08:54:55 Checking for update using Github
+2022-08-23 08:55:00 Success.
+2022-08-23 08:55:00 Latest version is 0.15.9
+2022-08-23 08:55:00 App is up to date.
+2022-08-23 09:54:55 Checking for update using Github
+2022-08-23 09:54:55 Success.
+2022-08-23 09:54:55 Latest version is 0.15.9
+2022-08-23 09:54:55 App is up to date.
+2022-08-23 10:54:55 Checking for update using Github
+2022-08-23 10:55:01 Success.
+2022-08-23 10:55:01 Latest version is 0.15.9
+2022-08-23 10:55:01 App is up to date.
+2022-08-23 11:54:55 Checking for update using Github
+2022-08-23 11:55:01 Success.
+2022-08-23 11:55:01 Latest version is 0.15.9
+2022-08-23 11:55:01 App is up to date.
+2022-08-23 12:54:56 Checking for update using Github
+2022-08-23 12:54:56 Success.
+2022-08-23 12:54:56 Latest version is 0.15.9
+2022-08-23 12:54:56 App is up to date.
+2022-08-23 13:54:56 Checking for update using Github
+2022-08-23 13:54:56 Success.
+2022-08-23 13:54:56 Latest version is 0.15.9
+2022-08-23 13:54:56 App is up to date.
+2022-08-23 14:54:56 Checking for update using Github
+2022-08-23 14:55:01 Success.
+2022-08-23 14:55:01 Latest version is 0.15.9
+2022-08-23 14:55:01 App is up to date.
+2022-08-23 15:54:56 Checking for update using Github
+2022-08-23 15:55:01 Success.
+2022-08-23 15:55:01 Latest version is 0.15.9
+2022-08-23 15:55:01 App is up to date.
+2022-08-23 16:54:56 Checking for update using Github
+2022-08-23 16:55:01 Success.
+2022-08-23 16:55:01 Latest version is 0.15.9
+2022-08-23 16:55:01 App is up to date.
+2022-08-23 17:54:56 Checking for update using Github
+2022-08-23 17:55:01 Success.
+2022-08-23 17:55:01 Latest version is 0.15.9
+2022-08-23 17:55:01 App is up to date.
+2022-08-23 18:54:56 Checking for update using Github
+2022-08-23 18:54:56 Success.
+2022-08-23 18:54:56 Latest version is 0.15.9
+2022-08-23 18:54:56 App is up to date.
+2022-08-23 19:54:56 Checking for update using Github
+2022-08-23 19:55:01 Success.
+2022-08-23 19:55:01 Latest version is 0.15.9
+2022-08-23 19:55:01 App is up to date.
+2022-08-23 20:54:56 Checking for update using Github
+2022-08-23 20:54:56 Success.
+2022-08-23 20:54:56 Latest version is 0.15.9
+2022-08-23 20:54:56 App is up to date.
+2022-08-23 21:54:56 Checking for update using Github
+2022-08-23 21:55:01 Success.
+2022-08-23 21:55:01 Latest version is 0.15.9
+2022-08-23 21:55:01 App is up to date.
+2022-08-23 22:54:56 Checking for update using Github
+2022-08-23 22:55:02 Success.
+2022-08-23 22:55:02 Latest version is 0.15.9
+2022-08-23 22:55:02 App is up to date.
+2022-08-23 23:54:56 Checking for update using Github
+2022-08-23 23:55:02 Success.
+2022-08-23 23:55:02 Latest version is 0.15.9
+2022-08-23 23:55:02 App is up to date.
+2022-08-24 00:54:56 Checking for update using Github
+2022-08-24 00:54:57 Success.
+2022-08-24 00:54:57 Latest version is 0.15.9
+2022-08-24 00:54:57 App is up to date.
+2022-08-24 01:54:56 Checking for update using Github
+2022-08-24 01:55:02 Success.
+2022-08-24 01:55:02 Latest version is 0.15.9
+2022-08-24 01:55:02 App is up to date.
+2022-08-24 02:54:57 Checking for update using Github
+2022-08-24 02:54:57 Success.
+2022-08-24 02:54:57 Latest version is 0.15.9
+2022-08-24 02:54:57 App is up to date.
+2022-08-24 03:54:57 Checking for update using Github
+2022-08-24 03:54:57 Success.
+2022-08-24 03:54:57 Latest version is 0.15.9
+2022-08-24 03:54:57 App is up to date.
+2022-08-24 04:54:57 Checking for update using Github
+2022-08-24 04:54:57 Success.
+2022-08-24 04:54:57 Latest version is 0.15.9
+2022-08-24 04:54:57 App is up to date.
+2022-08-24 05:54:57 Checking for update using Github
+2022-08-24 05:55:02 Success.
+2022-08-24 05:55:02 Latest version is 0.15.9
+2022-08-24 05:55:02 App is up to date.
+2022-08-24 06:54:57 Checking for update using Github
+2022-08-24 06:55:02 Success.
+2022-08-24 06:55:02 Latest version is 0.15.9
+2022-08-24 06:55:02 App is up to date.
+2022-08-24 07:54:57 Checking for update using Github
+2022-08-24 07:55:02 Success.
+2022-08-24 07:55:02 Latest version is 0.15.9
+2022-08-24 07:55:02 App is up to date.
+2022-08-24 08:54:57 Checking for update using Github
+2022-08-24 08:55:03 Success.
+2022-08-24 08:55:03 Latest version is 0.15.9
+2022-08-24 08:55:03 App is up to date.
+2022-08-24 09:54:57 Checking for update using Github
+2022-08-24 09:55:02 Success.
+2022-08-24 09:55:02 Latest version is 0.15.9
+2022-08-24 09:55:02 App is up to date.
+2022-08-24 10:54:57 Checking for update using Github
+2022-08-24 10:55:02 Success.
+2022-08-24 10:55:02 Latest version is 0.15.9
+2022-08-24 10:55:02 App is up to date.
+2022-08-24 11:54:57 Checking for update using Github
+2022-08-24 11:55:03 Success.
+2022-08-24 11:55:03 Latest version is 0.15.9
+2022-08-24 11:55:03 App is up to date.
+2022-08-24 12:54:57 Checking for update using Github
+2022-08-24 12:54:58 Success.
+2022-08-24 12:54:58 Latest version is 0.15.9
+2022-08-24 12:54:58 App is up to date.
+2022-08-24 13:54:57 Checking for update using Github
+2022-08-24 13:54:58 Success.
+2022-08-24 13:54:58 Latest version is 0.15.9
+2022-08-24 13:54:58 App is up to date.
+2022-08-24 14:54:58 Checking for update using Github
+2022-08-24 14:55:03 Success.
+2022-08-24 14:55:03 Latest version is 0.15.9
+2022-08-24 14:55:03 App is up to date.
+2022-08-24 15:54:58 Checking for update using Github
+2022-08-24 15:55:03 Success.
+2022-08-24 15:55:03 Latest version is 0.15.9
+2022-08-24 15:55:03 App is up to date.
+2022-08-24 16:54:58 Checking for update using Github
+2022-08-24 16:54:58 Success.
+2022-08-24 16:54:58 Latest version is 0.15.9
+2022-08-24 16:54:58 App is up to date.
+2022-08-24 17:54:58 Checking for update using Github
+2022-08-24 17:55:03 Success.
+2022-08-24 17:55:03 Latest version is 0.15.9
+2022-08-24 17:55:03 App is up to date.
+2022-08-24 18:54:58 Checking for update using Github
+2022-08-24 18:54:58 Success.
+2022-08-24 18:54:58 Latest version is 0.15.9
+2022-08-24 18:54:58 App is up to date.
+2022-08-24 19:54:58 Checking for update using Github
+2022-08-24 19:54:58 Success.
+2022-08-24 19:54:58 Latest version is 0.15.9
+2022-08-24 19:54:58 App is up to date.
+2022-08-24 20:54:58 Checking for update using Github
+2022-08-24 20:55:03 Success.
+2022-08-24 20:55:03 Latest version is 0.15.9
+2022-08-24 20:55:03 App is up to date.
+2022-08-24 21:54:58 Checking for update using Github
+2022-08-24 21:55:03 Success.
+2022-08-24 21:55:03 Latest version is 0.15.9
+2022-08-24 21:55:03 App is up to date.
+2022-08-24 22:54:58 Checking for update using Github
+2022-08-24 22:54:58 Success.
+2022-08-24 22:54:58 Latest version is 0.15.9
+2022-08-24 22:54:58 App is up to date.
+2022-08-24 23:54:58 Checking for update using Github
+2022-08-24 23:55:03 Success.
+2022-08-24 23:55:03 Latest version is 0.15.9
+2022-08-24 23:55:03 App is up to date.
+2022-08-25 00:54:58 Checking for update using Github
+2022-08-25 00:55:03 Success.
+2022-08-25 00:55:03 Latest version is 0.15.9
+2022-08-25 00:55:03 App is up to date.
+2022-08-25 01:54:58 Checking for update using Github
+2022-08-25 01:54:58 Success.
+2022-08-25 01:54:58 Latest version is 0.15.9
+2022-08-25 01:54:58 App is up to date.
+2022-08-25 02:54:58 Checking for update using Github
+2022-08-25 02:55:04 Success.
+2022-08-25 02:55:04 Latest version is 0.15.9
+2022-08-25 02:55:04 App is up to date.
+2022-08-25 03:54:58 Checking for update using Github
+2022-08-25 03:55:03 Success.
+2022-08-25 03:55:03 Latest version is 0.15.9
+2022-08-25 03:55:03 App is up to date.
+2022-08-25 04:54:58 Checking for update using Github
+2022-08-25 04:54:59 Success.
+2022-08-25 04:54:59 Latest version is 0.15.9
+2022-08-25 04:54:59 App is up to date.
+2022-08-25 05:54:58 Checking for update using Github
+2022-08-25 05:54:58 Success.
+2022-08-25 05:54:58 Latest version is 0.15.9
+2022-08-25 05:54:58 App is up to date.
+2022-08-25 06:54:58 Checking for update using Github
+2022-08-25 06:54:59 Success.
+2022-08-25 06:54:59 Latest version is 0.15.9
+2022-08-25 06:54:59 App is up to date.
+2022-08-25 07:54:58 Checking for update using Github
+2022-08-25 07:54:59 Success.
+2022-08-25 07:54:59 Latest version is 0.15.9
+2022-08-25 07:54:59 App is up to date.
+2022-08-25 08:54:59 Checking for update using Github
+2022-08-25 08:54:59 Success.
+2022-08-25 08:54:59 Latest version is 0.15.9
+2022-08-25 08:54:59 App is up to date.
+2022-08-25 09:54:59 Checking for update using Github
+2022-08-25 09:54:59 Success.
+2022-08-25 09:54:59 Latest version is 0.15.9
+2022-08-25 09:54:59 App is up to date.
+2022-08-25 10:54:59 Checking for update using Github
+2022-08-25 10:55:04 Success.
+2022-08-25 10:55:04 Latest version is 0.15.9
+2022-08-25 10:55:04 App is up to date.
+2022-08-25 11:54:59 Checking for update using Github
+2022-08-25 11:55:04 Success.
+2022-08-25 11:55:04 Latest version is 0.15.9
+2022-08-25 11:55:04 App is up to date.
+2022-08-25 12:54:59 Checking for update using Github
+2022-08-25 12:55:04 Success.
+2022-08-25 12:55:04 Latest version is 0.15.9
+2022-08-25 12:55:04 App is up to date.
+2022-08-25 13:54:59 Checking for update using Github
+2022-08-25 13:55:04 Success.
+2022-08-25 13:55:04 Latest version is 0.15.9
+2022-08-25 13:55:04 App is up to date.
+2022-08-25 14:54:59 Checking for update using Github
+2022-08-25 14:55:04 Success.
+2022-08-25 14:55:04 Latest version is 0.15.9
+2022-08-25 14:55:04 App is up to date.
+2022-08-25 15:54:59 Checking for update using Github
+2022-08-25 15:55:04 Success.
+2022-08-25 15:55:04 Latest version is 0.15.9
+2022-08-25 15:55:04 App is up to date.
+2022-08-25 16:54:59 Checking for update using Github
+2022-08-25 16:54:59 Success.
+2022-08-25 16:54:59 Latest version is 0.15.9
+2022-08-25 16:54:59 App is up to date.
+2022-08-25 17:54:59 Checking for update using Github
+2022-08-25 17:54:59 Success.
+2022-08-25 17:54:59 Latest version is 0.15.9
+2022-08-25 17:54:59 App is up to date.
+2022-08-25 18:54:59 Checking for update using Github
+2022-08-25 18:55:05 Success.
+2022-08-25 18:55:05 Latest version is 0.15.9
+2022-08-25 18:55:05 App is up to date.
+2022-08-25 19:54:59 Checking for update using Github
+2022-08-25 19:55:05 Success.
+2022-08-25 19:55:05 Latest version is 0.15.9
+2022-08-25 19:55:05 App is up to date.
+2022-08-25 20:54:59 Checking for update using Github
+2022-08-25 20:55:00 Success.
+2022-08-25 20:55:00 Latest version is 0.15.9
+2022-08-25 20:55:00 App is up to date.
+2022-08-25 21:54:59 Checking for update using Github
+2022-08-25 21:55:05 Success.
+2022-08-25 21:55:05 Latest version is 0.15.9
+2022-08-25 21:55:05 App is up to date.
+2022-08-25 22:55:00 Checking for update using Github
+2022-08-25 22:55:05 Success.
+2022-08-25 22:55:05 Latest version is 0.15.9
+2022-08-25 22:55:05 App is up to date.
+2022-08-25 23:55:00 Checking for update using Github
+2022-08-25 23:55:05 Success.
+2022-08-25 23:55:05 Latest version is 0.15.9
+2022-08-25 23:55:05 App is up to date.
+2022-08-26 00:55:00 Checking for update using Github
+2022-08-26 00:55:05 Success.
+2022-08-26 00:55:05 Latest version is 0.15.9
+2022-08-26 00:55:05 App is up to date.
+2022-08-26 01:55:00 Checking for update using Github
+2022-08-26 01:55:05 Success.
+2022-08-26 01:55:05 Latest version is 0.15.9
+2022-08-26 01:55:05 App is up to date.
+2022-08-26 02:55:00 Checking for update using Github
+2022-08-26 02:55:05 Success.
+2022-08-26 02:55:05 Latest version is 0.15.9
+2022-08-26 02:55:05 App is up to date.
+2022-08-26 03:55:00 Checking for update using Github
+2022-08-26 03:55:05 Success.
+2022-08-26 03:55:05 Latest version is 0.15.9
+2022-08-26 03:55:05 App is up to date.
+2022-08-26 04:55:00 Checking for update using Github
+2022-08-26 04:55:00 Success.
+2022-08-26 04:55:00 Latest version is 0.15.9
+2022-08-26 04:55:00 App is up to date.
+2022-08-26 05:55:00 Checking for update using Github
+2022-08-26 05:55:05 Success.
+2022-08-26 05:55:05 Latest version is 0.15.9
+2022-08-26 05:55:05 App is up to date.
+2022-08-26 06:55:00 Checking for update using Github
+2022-08-26 06:55:05 Success.
+2022-08-26 06:55:05 Latest version is 0.15.9
+2022-08-26 06:55:05 App is up to date.
+2022-08-26 07:55:00 Checking for update using Github
+2022-08-26 07:55:05 Success.
+2022-08-26 07:55:05 Latest version is 0.15.9
+2022-08-26 07:55:05 App is up to date.
+2022-08-26 08:55:00 Checking for update using Github
+2022-08-26 08:55:06 Success.
+2022-08-26 08:55:06 Latest version is 0.15.9
+2022-08-26 08:55:06 App is up to date.
+2022-08-26 09:55:00 Checking for update using Github
+2022-08-26 09:55:00 Failed to check for update using Github (net::ERR_INTERNET_DISCONNECTED)
+2022-08-26 09:55:00 Checking for update using obsidian.md
+2022-08-26 09:55:00 Failed to check for update using obsidian.md (net::ERR_INTERNET_DISCONNECTED)
+2022-08-26 10:55:00 Checking for update using Github
+2022-08-26 10:55:06 Success.
+2022-08-26 10:55:06 Latest version is 0.15.9
+2022-08-26 10:55:06 App is up to date.
+2022-08-26 12:32:58 Checking for update using Github
+2022-08-26 12:32:58 Success.
+2022-08-26 12:32:58 Latest version is 0.15.9
+2022-08-26 12:32:58 App is up to date.
+2022-08-26 13:32:58 Checking for update using Github
+2022-08-26 13:33:05 Success.
+2022-08-26 13:33:05 Latest version is 0.15.9
+2022-08-26 13:33:05 App is up to date.
+2022-08-26 14:32:58 Checking for update using Github
+2022-08-26 14:33:03 Success.
+2022-08-26 14:33:03 Latest version is 0.15.9
+2022-08-26 14:33:03 App is up to date.
+2022-08-26 15:32:58 Checking for update using Github
+2022-08-26 15:33:03 Success.
+2022-08-26 15:33:03 Latest version is 0.15.9
+2022-08-26 15:33:03 App is up to date.
+2022-08-26 16:32:58 Checking for update using Github
+2022-08-26 16:33:03 Success.
+2022-08-26 16:33:03 Latest version is 0.15.9
+2022-08-26 16:33:03 App is up to date.
+2022-08-26 17:32:58 Checking for update using Github
+2022-08-26 17:33:04 Success.
+2022-08-26 17:33:04 Latest version is 0.15.9
+2022-08-26 17:33:04 App is up to date.
+2022-08-26 20:07:45 Checking for update using Github
+2022-08-26 20:07:50 Success.
+2022-08-26 20:07:50 Latest version is 0.15.9
+2022-08-26 20:07:50 App is up to date.
+2022-08-26 21:07:45 Checking for update using Github
+2022-08-26 21:07:50 Success.
+2022-08-26 21:07:50 Latest version is 0.15.9
+2022-08-26 21:07:50 App is up to date.
+2022-08-26 22:07:45 Checking for update using Github
+2022-08-26 22:07:46 Success.
+2022-08-26 22:07:46 Latest version is 0.15.9
+2022-08-26 22:07:46 App is up to date.
+2022-08-26 23:07:45 Checking for update using Github
+2022-08-26 23:07:51 Success.
+2022-08-26 23:07:51 Latest version is 0.15.9
+2022-08-26 23:07:51 App is up to date.
+2022-08-27 00:07:45 Checking for update using Github
+2022-08-27 00:07:51 Success.
+2022-08-27 00:07:51 Latest version is 0.15.9
+2022-08-27 00:07:51 App is up to date.
+2022-08-27 01:07:46 Checking for update using Github
+2022-08-27 01:07:51 Success.
+2022-08-27 01:07:51 Latest version is 0.15.9
+2022-08-27 01:07:51 App is up to date.
+2022-08-27 02:07:46 Checking for update using Github
+2022-08-27 02:07:46 Success.
+2022-08-27 02:07:46 Latest version is 0.15.9
+2022-08-27 02:07:46 App is up to date.
+2022-08-27 03:07:46 Checking for update using Github
+2022-08-27 03:07:46 Success.
+2022-08-27 03:07:46 Latest version is 0.15.9
+2022-08-27 03:07:46 App is up to date.
+2022-08-27 04:07:46 Checking for update using Github
+2022-08-27 04:07:51 Success.
+2022-08-27 04:07:51 Latest version is 0.15.9
+2022-08-27 04:07:51 App is up to date.
+2022-08-27 05:07:46 Checking for update using Github
+2022-08-27 05:07:51 Success.
+2022-08-27 05:07:51 Latest version is 0.15.9
+2022-08-27 05:07:51 App is up to date.
+2022-08-27 06:07:46 Checking for update using Github
+2022-08-27 06:07:46 Success.
+2022-08-27 06:07:46 Latest version is 0.15.9
+2022-08-27 06:07:46 App is up to date.
+2022-08-27 07:07:46 Checking for update using Github
+2022-08-27 07:07:47 Success.
+2022-08-27 07:07:47 Latest version is 0.15.9
+2022-08-27 07:07:47 App is up to date.
+2022-08-27 08:07:46 Checking for update using Github
+2022-08-27 08:07:52 Success.
+2022-08-27 08:07:52 Latest version is 0.15.9
+2022-08-27 08:07:52 App is up to date.
+2022-08-27 09:07:46 Checking for update using Github
+2022-08-27 09:07:46 Success.
+2022-08-27 09:07:46 Latest version is 0.15.9
+2022-08-27 09:07:46 App is up to date.
+2022-08-27 10:07:46 Checking for update using Github
+2022-08-27 10:07:51 Success.
+2022-08-27 10:07:51 Latest version is 0.15.9
+2022-08-27 10:07:51 App is up to date.
+2022-08-27 11:07:46 Checking for update using Github
+2022-08-27 11:07:52 Success.
+2022-08-27 11:07:52 Latest version is 0.15.9
+2022-08-27 11:07:52 App is up to date.
+2022-08-27 12:07:46 Checking for update using Github
+2022-08-27 12:07:47 Success.
+2022-08-27 12:07:47 Latest version is 0.15.9
+2022-08-27 12:07:47 App is up to date.
+2022-08-27 13:07:46 Checking for update using Github
+2022-08-27 13:07:47 Success.
+2022-08-27 13:07:47 Latest version is 0.15.9
+2022-08-27 13:07:47 App is up to date.
+2022-08-27 14:07:46 Checking for update using Github
+2022-08-27 14:07:53 Success.
+2022-08-27 14:07:53 Latest version is 0.15.9
+2022-08-27 14:07:53 App is up to date.
+2022-08-27 15:07:46 Checking for update using Github
+2022-08-27 15:07:52 Success.
+2022-08-27 15:07:52 Latest version is 0.15.9
+2022-08-27 15:07:52 App is up to date.
+2022-08-27 16:07:46 Checking for update using Github
+2022-08-27 16:07:52 Success.
+2022-08-27 16:07:52 Latest version is 0.15.9
+2022-08-27 16:07:52 App is up to date.
+2022-08-27 17:07:47 Checking for update using Github
+2022-08-27 17:07:52 Success.
+2022-08-27 17:07:52 Latest version is 0.15.9
+2022-08-27 17:07:52 App is up to date.
+2022-08-27 18:07:47 Checking for update using Github
+2022-08-27 18:07:47 Success.
+2022-08-27 18:07:47 Latest version is 0.15.9
+2022-08-27 18:07:47 App is up to date.
+2022-08-27 19:07:47 Checking for update using Github
+2022-08-27 19:07:52 Success.
+2022-08-27 19:07:52 Latest version is 0.15.9
+2022-08-27 19:07:52 App is up to date.
+2022-08-27 20:07:47 Checking for update using Github
+2022-08-27 20:07:48 Success.
+2022-08-27 20:07:48 Latest version is 0.15.9
+2022-08-27 20:07:48 App is up to date.
+2022-09-21 20:09:50 Loading updated app package /home/noncomplete/.config/obsidian/obsidian-0.15.9.asar
+2022-09-21 20:09:51 Checking for update using Github
+2022-09-21 20:09:51 Success.
+2022-09-21 20:09:51 Latest version is 0.15.9
+2022-09-21 20:09:51 App is up to date.
+2022-09-21 21:09:50 Checking for update using Github
+2022-09-21 21:09:56 Success.
+2022-09-21 21:09:56 Latest version is 0.15.9
+2022-09-21 21:09:56 App is up to date.
+2022-09-21 21:10:01 Checking for update using Github
+2022-09-21 21:10:01 Success.
+2022-09-21 21:10:01 Latest version is 0.15.9
+2022-09-21 21:10:01 App is up to date.
+2022-09-21 22:09:50 Checking for update using Github
+2022-09-21 22:09:56 Success.
+2022-09-21 22:09:56 Latest version is 0.15.9
+2022-09-21 22:09:56 App is up to date.
+2022-09-21 23:09:50 Checking for update using Github
+2022-09-21 23:09:56 Success.
+2022-09-21 23:09:56 Latest version is 0.15.9
+2022-09-21 23:09:56 App is up to date.
+2022-09-22 00:09:51 Checking for update using Github
+2022-09-22 00:09:51 Success.
+2022-09-22 00:09:51 Latest version is 0.15.9
+2022-09-22 00:09:51 App is up to date.
+2022-09-22 01:09:51 Checking for update using Github
+2022-09-22 01:09:56 Success.
+2022-09-22 01:09:56 Latest version is 0.15.9
+2022-09-22 01:09:56 App is up to date.
+2022-09-22 02:09:51 Checking for update using Github
+2022-09-22 02:09:56 Success.
+2022-09-22 02:09:56 Latest version is 0.15.9
+2022-09-22 02:09:56 App is up to date.
+2022-09-22 03:09:51 Checking for update using Github
+2022-09-22 03:09:56 Success.
+2022-09-22 03:09:56 Latest version is 0.15.9
+2022-09-22 03:09:56 App is up to date.
+2022-09-22 04:09:51 Checking for update using Github
+2022-09-22 04:09:56 Success.
+2022-09-22 04:09:56 Latest version is 0.15.9
+2022-09-22 04:09:56 App is up to date.
+2022-09-22 05:09:51 Checking for update using Github
+2022-09-22 05:09:51 Success.
+2022-09-22 05:09:51 Latest version is 0.15.9
+2022-09-22 05:09:51 App is up to date.
+2022-09-22 06:09:51 Checking for update using Github
+2022-09-22 06:09:56 Success.
+2022-09-22 06:09:56 Latest version is 0.15.9
+2022-09-22 06:09:56 App is up to date.
+2022-09-22 07:09:51 Checking for update using Github
+2022-09-22 07:09:56 Success.
+2022-09-22 07:09:56 Latest version is 0.15.9
+2022-09-22 07:09:56 App is up to date.
+2022-09-22 08:09:51 Checking for update using Github
+2022-09-22 08:09:51 Success.
+2022-09-22 08:09:51 Latest version is 0.15.9
+2022-09-22 08:09:51 App is up to date.
+2022-09-22 09:09:51 Checking for update using Github
+2022-09-22 09:09:57 Success.
+2022-09-22 09:09:57 Latest version is 0.15.9
+2022-09-22 09:09:57 App is up to date.
+2022-09-22 10:09:51 Checking for update using Github
+2022-09-22 10:09:57 Success.
+2022-09-22 10:09:57 Latest version is 0.15.9
+2022-09-22 10:09:57 App is up to date.
+2022-09-22 11:09:51 Checking for update using Github
+2022-09-22 11:09:57 Success.
+2022-09-22 11:09:57 Latest version is 0.15.9
+2022-09-22 11:09:57 App is up to date.
+2022-09-22 12:09:52 Checking for update using Github
+2022-09-22 12:09:57 Success.
+2022-09-22 12:09:57 Latest version is 0.15.9
+2022-09-22 12:09:57 App is up to date.
+2022-09-22 13:09:52 Checking for update using Github
+2022-09-22 13:09:52 Success.
+2022-09-22 13:09:52 Latest version is 0.15.9
+2022-09-22 13:09:52 App is up to date.
+2022-09-22 14:09:52 Checking for update using Github
+2022-09-22 14:09:57 Success.
+2022-09-22 14:09:57 Latest version is 0.15.9
+2022-09-22 14:09:57 App is up to date.
+2022-09-22 15:09:52 Checking for update using Github
+2022-09-22 15:09:57 Success.
+2022-09-22 15:09:57 Latest version is 0.15.9
+2022-09-22 15:09:57 App is up to date.
+2022-09-22 16:09:52 Checking for update using Github
+2022-09-22 16:09:52 Success.
+2022-09-22 16:09:52 Latest version is 0.15.9
+2022-09-22 16:09:52 App is up to date.
+2022-09-22 17:09:52 Checking for update using Github
+2022-09-22 17:09:52 Success.
+2022-09-22 17:09:52 Latest version is 0.15.9
+2022-09-22 17:09:52 App is up to date.
+2022-09-22 18:09:52 Checking for update using Github
+2022-09-22 18:09:52 Success.
+2022-09-22 18:09:52 Latest version is 0.15.9
+2022-09-22 18:09:52 App is up to date.
+2022-09-22 19:09:52 Checking for update using Github
+2022-09-22 19:09:57 Success.
+2022-09-22 19:09:57 Latest version is 0.15.9
+2022-09-22 19:09:57 App is up to date.
+2022-09-22 20:09:52 Checking for update using Github
+2022-09-22 20:09:52 Success.
+2022-09-22 20:09:52 Latest version is 0.15.9
+2022-09-22 20:09:52 App is up to date.
+2022-09-22 21:09:52 Checking for update using Github
+2022-09-22 21:09:57 Success.
+2022-09-22 21:09:57 Latest version is 0.15.9
+2022-09-22 21:09:57 App is up to date.
+2022-09-22 22:09:52 Checking for update using Github
+2022-09-22 22:09:53 Success.
+2022-09-22 22:09:53 Latest version is 0.15.9
+2022-09-22 22:09:53 App is up to date.
+2022-09-22 23:09:52 Checking for update using Github
+2022-09-22 23:09:53 Success.
+2022-09-22 23:09:53 Latest version is 0.15.9
+2022-09-22 23:09:53 App is up to date.
+2022-09-23 00:09:52 Checking for update using Github
+2022-09-23 00:09:58 Success.
+2022-09-23 00:09:58 Latest version is 0.15.9
+2022-09-23 00:09:58 App is up to date.
+2022-09-23 01:09:53 Checking for update using Github
+2022-09-23 01:09:53 Success.
+2022-09-23 01:09:53 Latest version is 0.15.9
+2022-09-23 01:09:53 App is up to date.
+2022-09-23 02:09:53 Checking for update using Github
+2022-09-23 02:09:53 Success.
+2022-09-23 02:09:53 Latest version is 0.15.9
+2022-09-23 02:09:53 App is up to date.
+2022-09-23 03:09:53 Checking for update using Github
+2022-09-23 03:09:58 Success.
+2022-09-23 03:09:58 Latest version is 0.15.9
+2022-09-23 03:09:58 App is up to date.
+2022-09-23 04:09:53 Checking for update using Github
+2022-09-23 04:09:58 Success.
+2022-09-23 04:09:58 Latest version is 0.15.9
+2022-09-23 04:09:58 App is up to date.
+2022-09-23 05:09:53 Checking for update using Github
+2022-09-23 05:09:58 Success.
+2022-09-23 05:09:58 Latest version is 0.15.9
+2022-09-23 05:09:58 App is up to date.
+2022-09-23 06:09:53 Checking for update using Github
+2022-09-23 06:09:58 Success.
+2022-09-23 06:09:58 Latest version is 0.15.9
+2022-09-23 06:09:58 App is up to date.
+2022-09-23 07:09:53 Checking for update using Github
+2022-09-23 07:09:58 Success.
+2022-09-23 07:09:58 Latest version is 0.15.9
+2022-09-23 07:09:58 App is up to date.
+2022-09-23 08:09:53 Checking for update using Github
+2022-09-23 08:09:53 Success.
+2022-09-23 08:09:53 Latest version is 0.15.9
+2022-09-23 08:09:53 App is up to date.
+2022-09-23 09:09:53 Checking for update using Github
+2022-09-23 09:09:54 Success.
+2022-09-23 09:09:54 Latest version is 0.15.9
+2022-09-23 09:09:54 App is up to date.
+2022-09-23 10:09:53 Checking for update using Github
+2022-09-23 10:09:59 Success.
+2022-09-23 10:09:59 Latest version is 0.15.9
+2022-09-23 10:09:59 App is up to date.
+2022-09-23 11:09:53 Checking for update using Github
+2022-09-23 11:09:59 Success.
+2022-09-23 11:09:59 Latest version is 0.15.9
+2022-09-23 11:09:59 App is up to date.
+2022-09-23 12:09:54 Checking for update using Github
+2022-09-23 12:09:59 Success.
+2022-09-23 12:09:59 Latest version is 0.15.9
+2022-09-23 12:09:59 App is up to date.
+2022-09-23 13:09:54 Checking for update using Github
+2022-09-23 13:09:59 Success.
+2022-09-23 13:09:59 Latest version is 0.15.9
+2022-09-23 13:09:59 App is up to date.
+2022-09-23 14:09:54 Checking for update using Github
+2022-09-23 14:09:54 Success.
+2022-09-23 14:09:54 Latest version is 0.15.9
+2022-09-23 14:09:54 App is up to date.
+2022-09-23 15:09:54 Checking for update using Github
+2022-09-23 15:09:59 Success.
+2022-09-23 15:09:59 Latest version is 0.15.9
+2022-09-23 15:09:59 App is up to date.
+2022-09-23 16:09:54 Checking for update using Github
+2022-09-23 16:09:54 Success.
+2022-09-23 16:09:54 Latest version is 0.15.9
+2022-09-23 16:09:54 App is up to date.
+2022-09-23 17:09:54 Checking for update using Github
+2022-09-23 17:09:54 Success.
+2022-09-23 17:09:54 Latest version is 0.15.9
+2022-09-23 17:09:54 App is up to date.
+2022-09-23 18:09:54 Checking for update using Github
+2022-09-23 18:09:54 Success.
+2022-09-23 18:09:54 Latest version is 0.15.9
+2022-09-23 18:09:54 App is up to date.
+2022-09-23 19:09:54 Checking for update using Github
+2022-09-23 19:10:04 Failed to check for update using Github (net::ERR_NAME_NOT_RESOLVED)
+2022-09-23 19:10:04 Checking for update using obsidian.md
+2022-09-23 19:10:11 Success.
+2022-09-23 19:10:11 Latest version is 0.15.9
+2022-09-23 19:10:11 App is up to date.
+2022-09-23 20:09:54 Checking for update using Github
+2022-09-23 20:09:54 Success.
+2022-09-23 20:09:54 Latest version is 0.15.9
+2022-09-23 20:09:54 App is up to date.
+2022-09-23 21:09:54 Checking for update using Github
+2022-09-23 21:10:00 Success.
+2022-09-23 21:10:00 Latest version is 0.15.9
+2022-09-23 21:10:00 App is up to date.
+2022-09-23 22:09:54 Checking for update using Github
+2022-09-23 22:10:05 Success.
+2022-09-23 22:10:05 Latest version is 0.15.9
+2022-09-23 22:10:05 App is up to date.
+2022-09-23 23:09:54 Checking for update using Github
+2022-09-23 23:10:00 Success.
+2022-09-23 23:10:00 Latest version is 0.15.9
+2022-09-23 23:10:00 App is up to date.
+2022-09-24 00:09:55 Checking for update using Github
+2022-09-24 00:10:00 Success.
+2022-09-24 00:10:00 Latest version is 0.15.9
+2022-09-24 00:10:00 App is up to date.
+2022-09-24 14:38:47 Loading updated app package /home/noncomplete/.config/obsidian/obsidian-0.15.9.asar
+2022-09-24 14:38:47 Checking for update using Github
+2022-09-24 14:38:53 Success.
+2022-09-24 14:38:53 Latest version is 0.15.9
+2022-09-24 14:38:53 App is up to date.
+2022-09-24 14:55:28 Loading updated app package /home/noncomplete/.config/obsidian/obsidian-0.15.9.asar
+2022-09-24 14:55:28 Checking for update using Github
+2022-09-24 14:55:34 Success.
+2022-09-24 14:55:34 Latest version is 0.15.9
+2022-09-24 14:55:34 App is up to date.
+2022-09-24 15:55:28 Checking for update using Github
+2022-09-24 15:55:33 Success.
+2022-09-24 15:55:33 Latest version is 0.15.9
+2022-09-24 15:55:33 App is up to date.
+2022-09-24 16:55:28 Checking for update using Github
+2022-09-24 16:55:28 Success.
+2022-09-24 16:55:28 Latest version is 0.15.9
+2022-09-24 16:55:28 App is up to date.
+2022-09-24 17:55:28 Checking for update using Github
+2022-09-24 17:55:28 Success.
+2022-09-24 17:55:28 Latest version is 0.15.9
+2022-09-24 17:55:28 App is up to date.
+2022-09-24 18:55:28 Checking for update using Github
+2022-09-24 18:55:29 Success.
+2022-09-24 18:55:29 Latest version is 0.15.9
+2022-09-24 18:55:29 App is up to date.
+2022-09-24 19:55:28 Checking for update using Github
+2022-09-24 19:55:29 Success.
+2022-09-24 19:55:29 Latest version is 0.15.9
+2022-09-24 19:55:29 App is up to date.
+2022-09-24 20:55:28 Checking for update using Github
+2022-09-24 20:55:29 Success.
+2022-09-24 20:55:29 Latest version is 0.15.9
+2022-09-24 20:55:29 App is up to date.
+2022-09-24 21:55:28 Checking for update using Github
+2022-09-24 21:55:34 Success.
+2022-09-24 21:55:34 Latest version is 0.15.9
+2022-09-24 21:55:34 App is up to date.
+2022-09-24 22:55:29 Checking for update using Github
+2022-09-24 22:55:29 Success.
+2022-09-24 22:55:29 Latest version is 0.15.9
+2022-09-24 22:55:29 App is up to date.
+2022-09-24 23:55:29 Checking for update using Github
+2022-09-24 23:55:29 Success.
+2022-09-24 23:55:29 Latest version is 0.15.9
+2022-09-24 23:55:29 App is up to date.
+2022-09-25 00:55:29 Checking for update using Github
+2022-09-25 00:55:34 Success.
+2022-09-25 00:55:34 Latest version is 0.15.9
+2022-09-25 00:55:34 App is up to date.
+2022-09-25 01:55:29 Checking for update using Github
+2022-09-25 01:55:29 Success.
+2022-09-25 01:55:29 Latest version is 0.15.9
+2022-09-25 01:55:29 App is up to date.
+2022-09-25 02:55:29 Checking for update using Github
+2022-09-25 02:55:34 Success.
+2022-09-25 02:55:34 Latest version is 0.15.9
+2022-09-25 02:55:34 App is up to date.
+2022-09-25 03:55:29 Checking for update using Github
+2022-09-25 03:55:34 Success.
+2022-09-25 03:55:34 Latest version is 0.15.9
+2022-09-25 03:55:34 App is up to date.
+2022-09-25 04:55:29 Checking for update using Github
+2022-09-25 04:55:34 Success.
+2022-09-25 04:55:34 Latest version is 0.15.9
+2022-09-25 04:55:34 App is up to date.
+2022-09-25 05:55:29 Checking for update using Github
+2022-09-25 05:55:30 Success.
+2022-09-25 05:55:30 Latest version is 0.15.9
+2022-09-25 05:55:30 App is up to date.
+2022-09-25 06:55:29 Checking for update using Github
+2022-09-25 06:55:35 Success.
+2022-09-25 06:55:35 Latest version is 0.15.9
+2022-09-25 06:55:35 App is up to date.
+2022-09-25 07:55:29 Checking for update using Github
+2022-09-25 07:55:29 Success.
+2022-09-25 07:55:29 Latest version is 0.15.9
+2022-09-25 07:55:29 App is up to date.
+2022-09-25 08:55:29 Checking for update using Github
+2022-09-25 08:55:30 Success.
+2022-09-25 08:55:30 Latest version is 0.15.9
+2022-09-25 08:55:30 App is up to date.
+2022-09-25 09:55:29 Checking for update using Github
+2022-09-25 09:55:29 Success.
+2022-09-25 09:55:29 Latest version is 0.15.9
+2022-09-25 09:55:29 App is up to date.
+2022-09-25 10:55:29 Checking for update using Github
+2022-09-25 10:55:36 Success.
+2022-09-25 10:55:36 Latest version is 0.15.9
+2022-09-25 10:55:36 App is up to date.
+2022-09-25 11:55:29 Checking for update using Github
+2022-09-25 11:55:35 Success.
+2022-09-25 11:55:35 Latest version is 0.15.9
+2022-09-25 11:55:35 App is up to date.
+2022-09-25 12:55:30 Checking for update using Github
+2022-09-25 12:55:30 Success.
+2022-09-25 12:55:30 Latest version is 0.15.9
+2022-09-25 12:55:30 App is up to date.
+2022-09-25 13:55:30 Checking for update using Github
+2022-09-25 13:55:30 Success.
+2022-09-25 13:55:30 Latest version is 0.15.9
+2022-09-25 13:55:30 App is up to date.
+2022-09-25 14:25:38 Loading updated app package /home/noncomplete/.config/obsidian/obsidian-0.15.9.asar
+2022-09-25 14:25:38 Checking for update using Github
+2022-09-25 14:25:39 Success.
+2022-09-25 14:25:39 Latest version is 0.15.9
+2022-09-25 14:25:39 App is up to date.
+2022-09-29 18:36:59 Loading updated app package /home/noncomplete/.config/obsidian/obsidian-0.15.9.asar
+2022-09-29 18:37:00 Checking for update using Github
+2022-09-29 18:37:05 Success.
+2022-09-29 18:37:05 Latest version is 0.15.9
+2022-09-29 18:37:05 App is up to date.
+2022-09-29 19:36:59 Checking for update using Github
+2022-09-29 19:37:05 Success.
+2022-09-29 19:37:05 Latest version is 0.15.9
+2022-09-29 19:37:05 App is up to date.
+2022-09-30 02:27:55 Checking for update using Github
+2022-09-30 02:28:00 Success.
+2022-09-30 02:28:00 Latest version is 0.15.9
+2022-09-30 02:28:00 App is up to date.
+2022-09-30 03:27:55 Checking for update using Github
+2022-09-30 03:28:02 Success.
+2022-09-30 03:28:02 Latest version is 0.15.9
+2022-09-30 03:28:02 App is up to date.
+2022-09-30 09:11:59 Checking for update using Github
+2022-09-30 09:12:04 Success.
+2022-09-30 09:12:04 Latest version is 0.15.9
+2022-09-30 09:12:04 App is up to date.
+2022-09-30 10:11:59 Checking for update using Github
+2022-09-30 10:12:04 Success.
+2022-09-30 10:12:04 Latest version is 0.15.9
+2022-09-30 10:12:04 App is up to date.
+2022-09-30 11:11:59 Checking for update using Github
+2022-09-30 11:12:04 Success.
+2022-09-30 11:12:04 Latest version is 0.15.9
+2022-09-30 11:12:04 App is up to date.
+2022-09-30 12:11:59 Checking for update using Github
+2022-09-30 12:11:59 Success.
+2022-09-30 12:11:59 Latest version is 0.15.9
+2022-09-30 12:11:59 App is up to date.
+2022-09-30 13:11:59 Checking for update using Github
+2022-09-30 13:11:59 Success.
+2022-09-30 13:11:59 Latest version is 0.15.9
+2022-09-30 13:11:59 App is up to date.
+2022-09-30 14:11:59 Checking for update using Github
+2022-09-30 14:11:59 Success.
+2022-09-30 14:11:59 Latest version is 0.15.9
+2022-09-30 14:11:59 App is up to date.
+2022-09-30 15:11:59 Checking for update using Github
+2022-09-30 15:11:59 Success.
+2022-09-30 15:11:59 Latest version is 0.15.9
+2022-09-30 15:11:59 App is up to date.
+2022-09-30 16:11:59 Checking for update using Github
+2022-09-30 16:12:05 Success.
+2022-09-30 16:12:05 Latest version is 0.15.9
+2022-09-30 16:12:05 App is up to date.
+2022-09-30 17:11:59 Checking for update using Github
+2022-09-30 17:12:05 Success.
+2022-09-30 17:12:05 Latest version is 0.15.9
+2022-09-30 17:12:05 App is up to date.
+2022-09-30 18:11:59 Checking for update using Github
+2022-09-30 18:12:05 Success.
+2022-09-30 18:12:05 Latest version is 0.15.9
+2022-09-30 18:12:05 App is up to date.
+2022-09-30 19:12:00 Checking for update using Github
+2022-09-30 19:12:00 Success.
+2022-09-30 19:12:00 Latest version is 0.15.9
+2022-09-30 19:12:00 App is up to date.
+2022-09-30 20:12:00 Checking for update using Github
+2022-09-30 20:12:00 Success.
+2022-09-30 20:12:00 Latest version is 0.15.9
+2022-09-30 20:12:00 App is up to date.
+2022-09-30 21:12:00 Checking for update using Github
+2022-09-30 21:12:05 Success.
+2022-09-30 21:12:05 Latest version is 0.15.9
+2022-09-30 21:12:05 App is up to date.
+2022-09-30 22:12:00 Checking for update using Github
+2022-09-30 22:12:05 Success.
+2022-09-30 22:12:05 Latest version is 0.15.9
+2022-09-30 22:12:05 App is up to date.
+2022-09-30 23:12:00 Checking for update using Github
+2022-09-30 23:12:00 Success.
+2022-09-30 23:12:00 Latest version is 0.15.9
+2022-09-30 23:12:00 App is up to date.
+2022-10-01 00:12:00 Checking for update using Github
+2022-10-01 00:12:00 Success.
+2022-10-01 00:12:00 Latest version is 0.15.9
+2022-10-01 00:12:00 App is up to date.
+2022-10-01 01:12:00 Checking for update using Github
+2022-10-01 01:12:05 Success.
+2022-10-01 01:12:05 Latest version is 0.15.9
+2022-10-01 01:12:05 App is up to date.
+2022-10-01 02:12:00 Checking for update using Github
+2022-10-01 02:12:05 Success.
+2022-10-01 02:12:05 Latest version is 0.15.9
+2022-10-01 02:12:05 App is up to date.
+2022-10-01 03:12:00 Checking for update using Github
+2022-10-01 03:12:00 Success.
+2022-10-01 03:12:00 Latest version is 0.15.9
+2022-10-01 03:12:00 App is up to date.
+2022-10-01 04:12:00 Checking for update using Github
+2022-10-01 04:12:00 Success.
+2022-10-01 04:12:00 Latest version is 0.15.9
+2022-10-01 04:12:00 App is up to date.
+2022-10-01 05:12:00 Checking for update using Github
+2022-10-01 05:12:05 Success.
+2022-10-01 05:12:05 Latest version is 0.15.9
+2022-10-01 05:12:05 App is up to date.
+2022-10-01 06:12:00 Checking for update using Github
+2022-10-01 06:12:01 Success.
+2022-10-01 06:12:01 Latest version is 0.15.9
+2022-10-01 06:12:01 App is up to date.
+2022-10-01 07:12:00 Checking for update using Github
+2022-10-01 07:12:01 Success.
+2022-10-01 07:12:01 Latest version is 0.15.9
+2022-10-01 07:12:01 App is up to date.
+2022-10-01 08:12:00 Checking for update using Github
+2022-10-01 08:12:06 Success.
+2022-10-01 08:12:06 Latest version is 0.15.9
+2022-10-01 08:12:06 App is up to date.
+2022-10-01 09:12:01 Checking for update using Github
+2022-10-01 09:12:06 Success.
+2022-10-01 09:12:06 Latest version is 0.15.9
+2022-10-01 09:12:06 App is up to date.
+2022-10-01 10:12:01 Checking for update using Github
+2022-10-01 10:12:01 Success.
+2022-10-01 10:12:01 Latest version is 0.15.9
+2022-10-01 10:12:01 App is up to date.
+2022-10-01 11:12:01 Checking for update using Github
+2022-10-01 11:12:01 Success.
+2022-10-01 11:12:01 Latest version is 0.15.9
+2022-10-01 11:12:01 App is up to date.
+2022-10-01 12:12:01 Checking for update using Github
+2022-10-01 12:12:01 Success.
+2022-10-01 12:12:01 Latest version is 0.15.9
+2022-10-01 12:12:01 App is up to date.
+2022-10-01 13:12:01 Checking for update using Github
+2022-10-01 13:12:01 Success.
+2022-10-01 13:12:01 Latest version is 0.15.9
+2022-10-01 13:12:01 App is up to date.
+2022-10-01 14:12:01 Checking for update using Github
+2022-10-01 14:12:06 Success.
+2022-10-01 14:12:06 Latest version is 0.15.9
+2022-10-01 14:12:06 App is up to date.
+2022-10-01 15:12:01 Checking for update using Github
+2022-10-01 15:12:02 Success.
+2022-10-01 15:12:02 Latest version is 0.15.9
+2022-10-01 15:12:02 App is up to date.
+2022-10-01 16:12:01 Checking for update using Github
+2022-10-01 16:12:07 Success.
+2022-10-01 16:12:07 Latest version is 0.15.9
+2022-10-01 16:12:07 App is up to date.
+2022-10-01 17:12:01 Checking for update using Github
+2022-10-01 17:12:07 Success.
+2022-10-01 17:12:07 Latest version is 0.15.9
+2022-10-01 17:12:07 App is up to date.
+2022-10-01 18:12:01 Checking for update using Github
+2022-10-01 18:12:07 Success.
+2022-10-01 18:12:07 Latest version is 0.15.9
+2022-10-01 18:12:07 App is up to date.
+2022-10-01 19:12:01 Checking for update using Github
+2022-10-01 19:12:02 Success.
+2022-10-01 19:12:02 Latest version is 0.15.9
+2022-10-01 19:12:02 App is up to date.
+2022-10-01 20:12:02 Checking for update using Github
+2022-10-01 20:12:07 Success.
+2022-10-01 20:12:07 Latest version is 0.15.9
+2022-10-01 20:12:07 App is up to date.
+2022-10-01 21:12:02 Checking for update using Github
+2022-10-01 21:12:02 Success.
+2022-10-01 21:12:02 Latest version is 0.15.9
+2022-10-01 21:12:02 App is up to date.
+2022-10-01 22:12:02 Checking for update using Github
+2022-10-01 22:12:07 Success.
+2022-10-01 22:12:07 Latest version is 0.15.9
+2022-10-01 22:12:07 App is up to date.
+2022-10-01 23:12:02 Checking for update using Github
+2022-10-01 23:12:07 Success.
+2022-10-01 23:12:07 Latest version is 0.15.9
+2022-10-01 23:12:07 App is up to date.
+2022-10-02 00:12:02 Checking for update using Github
+2022-10-02 00:12:07 Success.
+2022-10-02 00:12:07 Latest version is 0.15.9
+2022-10-02 00:12:07 App is up to date.
+2022-10-02 01:12:02 Checking for update using Github
+2022-10-02 01:12:02 Success.
+2022-10-02 01:12:02 Latest version is 0.15.9
+2022-10-02 01:12:02 App is up to date.
+2022-10-02 02:12:02 Checking for update using Github
+2022-10-02 02:12:07 Success.
+2022-10-02 02:12:07 Latest version is 0.15.9
+2022-10-02 02:12:07 App is up to date.
+2022-10-02 03:12:02 Checking for update using Github
+2022-10-02 03:12:07 Success.
+2022-10-02 03:12:07 Latest version is 0.15.9
+2022-10-02 03:12:07 App is up to date.
+2022-10-02 04:12:02 Checking for update using Github
+2022-10-02 04:12:07 Success.
+2022-10-02 04:12:07 Latest version is 0.15.9
+2022-10-02 04:12:07 App is up to date.
+2022-10-02 05:12:02 Checking for update using Github
+2022-10-02 05:12:08 Success.
+2022-10-02 05:12:08 Latest version is 0.15.9
+2022-10-02 05:12:08 App is up to date.
+2022-10-02 06:12:02 Checking for update using Github
+2022-10-02 06:12:08 Success.
+2022-10-02 06:12:08 Latest version is 0.15.9
+2022-10-02 06:12:08 App is up to date.
+2022-10-02 07:12:02 Checking for update using Github
+2022-10-02 07:12:03 Success.
+2022-10-02 07:12:03 Latest version is 0.15.9
+2022-10-02 07:12:03 App is up to date.
+2022-10-02 08:12:02 Checking for update using Github
+2022-10-02 08:12:08 Success.
+2022-10-02 08:12:08 Latest version is 0.15.9
+2022-10-02 08:12:08 App is up to date.
+2022-10-02 09:12:03 Checking for update using Github
+2022-10-02 09:12:03 Success.
+2022-10-02 09:12:03 Latest version is 0.15.9
+2022-10-02 09:12:03 App is up to date.
+2022-10-02 10:12:03 Checking for update using Github
+2022-10-02 10:12:03 Success.
+2022-10-02 10:12:03 Latest version is 0.15.9
+2022-10-02 10:12:03 App is up to date.
+2022-10-02 11:12:03 Checking for update using Github
+2022-10-02 11:12:03 Success.
+2022-10-02 11:12:03 Latest version is 0.15.9
+2022-10-02 11:12:03 App is up to date.
+2022-10-02 12:12:03 Checking for update using Github
+2022-10-02 12:12:08 Success.
+2022-10-02 12:12:08 Latest version is 0.15.9
+2022-10-02 12:12:08 App is up to date.
+2022-10-02 13:12:03 Checking for update using Github
+2022-10-02 13:12:08 Success.
+2022-10-02 13:12:08 Latest version is 0.15.9
+2022-10-02 13:12:08 App is up to date.
+2022-10-02 14:12:03 Checking for update using Github
+2022-10-02 14:12:09 Success.
+2022-10-02 14:12:09 Latest version is 0.15.9
+2022-10-02 14:12:09 App is up to date.
+2022-10-02 15:12:03 Checking for update using Github
+2022-10-02 15:12:08 Success.
+2022-10-02 15:12:08 Latest version is 0.15.9
+2022-10-02 15:12:08 App is up to date.
+2022-10-02 16:12:03 Checking for update using Github
+2022-10-02 16:12:04 Success.
+2022-10-02 16:12:04 Latest version is 0.15.9
+2022-10-02 16:12:04 App is up to date.
+2022-10-02 17:12:03 Checking for update using Github
+2022-10-02 17:12:09 Success.
+2022-10-02 17:12:09 Latest version is 0.15.9
+2022-10-02 17:12:09 App is up to date.
+2022-10-02 18:12:03 Checking for update using Github
+2022-10-02 18:12:09 Success.
+2022-10-02 18:12:09 Latest version is 0.15.9
+2022-10-02 18:12:09 App is up to date.
+2022-10-02 19:12:03 Checking for update using Github
+2022-10-02 19:12:09 Success.
+2022-10-02 19:12:09 Latest version is 0.15.9
+2022-10-02 19:12:09 App is up to date.
+2022-10-02 20:12:03 Checking for update using Github
+2022-10-02 20:12:04 Success.
+2022-10-02 20:12:04 Latest version is 0.15.9
+2022-10-02 20:12:04 App is up to date.
+2022-10-02 21:12:04 Checking for update using Github
+2022-10-02 21:12:04 Success.
+2022-10-02 21:12:04 Latest version is 0.15.9
+2022-10-02 21:12:04 App is up to date.
+2022-10-02 22:12:04 Checking for update using Github
+2022-10-02 22:12:05 Success.
+2022-10-02 22:12:05 Latest version is 0.15.9
+2022-10-02 22:12:05 App is up to date.
+2022-10-02 23:12:04 Checking for update using Github
+2022-10-02 23:12:04 Success.
+2022-10-02 23:12:04 Latest version is 0.15.9
+2022-10-02 23:12:04 App is up to date.
+2022-10-03 00:12:04 Checking for update using Github
+2022-10-03 00:12:09 Success.
+2022-10-03 00:12:09 Latest version is 0.15.9
+2022-10-03 00:12:09 App is up to date.
+2022-10-03 01:12:04 Checking for update using Github
+2022-10-03 01:12:04 Success.
+2022-10-03 01:12:04 Latest version is 0.15.9
+2022-10-03 01:12:04 App is up to date.
+2022-10-03 02:12:04 Checking for update using Github
+2022-10-03 02:12:09 Success.
+2022-10-03 02:12:09 Latest version is 0.15.9
+2022-10-03 02:12:09 App is up to date.
+2022-10-03 03:12:04 Checking for update using Github
+2022-10-03 03:12:09 Success.
+2022-10-03 03:12:09 Latest version is 0.15.9
+2022-10-03 03:12:09 App is up to date.
+2022-10-03 04:12:04 Checking for update using Github
+2022-10-03 04:12:04 Success.
+2022-10-03 04:12:04 Latest version is 0.15.9
+2022-10-03 04:12:04 App is up to date.
+2022-10-03 05:12:04 Checking for update using Github
+2022-10-03 05:12:04 Success.
+2022-10-03 05:12:04 Latest version is 0.15.9
+2022-10-03 05:12:04 App is up to date.
+2022-10-03 06:12:04 Checking for update using Github
+2022-10-03 06:12:10 Success.
+2022-10-03 06:12:10 Latest version is 0.15.9
+2022-10-03 06:12:10 App is up to date.
+2022-10-03 07:12:04 Checking for update using Github
+2022-10-03 07:12:09 Success.
+2022-10-03 07:12:09 Latest version is 0.15.9
+2022-10-03 07:12:09 App is up to date.
+2022-10-03 08:12:04 Checking for update using Github
+2022-10-03 08:12:10 Success.
+2022-10-03 08:12:10 Latest version is 0.15.9
+2022-10-03 08:12:10 App is up to date.
+2022-10-03 09:12:04 Checking for update using Github
+2022-10-03 09:12:05 Success.
+2022-10-03 09:12:05 Latest version is 0.15.9
+2022-10-03 09:12:05 App is up to date.
+2022-10-03 10:12:04 Checking for update using Github
+2022-10-03 10:12:05 Success.
+2022-10-03 10:12:05 Latest version is 0.15.9
+2022-10-03 10:12:05 App is up to date.
+2022-10-03 11:12:04 Checking for update using Github
+2022-10-03 11:12:05 Success.
+2022-10-03 11:12:05 Latest version is 0.15.9
+2022-10-03 11:12:05 App is up to date.
+2022-10-03 12:12:04 Checking for update using Github
+2022-10-03 12:12:05 Success.
+2022-10-03 12:12:05 Latest version is 0.15.9
+2022-10-03 12:12:05 App is up to date.
+2022-10-03 13:12:05 Checking for update using Github
+2022-10-03 13:12:05 Success.
+2022-10-03 13:12:05 Latest version is 0.15.9
+2022-10-03 13:12:05 App is up to date.
+2022-10-03 14:12:05 Checking for update using Github
+2022-10-03 14:12:05 Success.
+2022-10-03 14:12:05 Latest version is 0.15.9
+2022-10-03 14:12:05 App is up to date.
+2022-10-03 15:12:05 Checking for update using Github
+2022-10-03 15:12:05 Success.
+2022-10-03 15:12:05 Latest version is 0.15.9
+2022-10-03 15:12:05 App is up to date.
+2022-10-03 16:12:05 Checking for update using Github
+2022-10-03 16:12:10 Success.
+2022-10-03 16:12:10 Latest version is 0.15.9
+2022-10-03 16:12:10 App is up to date.
+2022-10-03 17:12:05 Checking for update using Github
+2022-10-03 17:12:05 Success.
+2022-10-03 17:12:05 Latest version is 0.15.9
+2022-10-03 17:12:05 App is up to date.
+2022-10-03 18:12:05 Checking for update using Github
+2022-10-03 18:12:10 Success.
+2022-10-03 18:12:10 Latest version is 0.15.9
+2022-10-03 18:12:10 App is up to date.
+2022-10-03 19:12:05 Checking for update using Github
+2022-10-03 19:12:10 Success.
+2022-10-03 19:12:10 Latest version is 0.15.9
+2022-10-03 19:12:10 App is up to date.
+2022-10-03 20:12:05 Checking for update using Github
+2022-10-03 20:12:10 Success.
+2022-10-03 20:12:10 Latest version is 0.15.9
+2022-10-03 20:12:10 App is up to date.
+2022-10-03 21:12:05 Checking for update using Github
+2022-10-03 21:12:05 Success.
+2022-10-03 21:12:05 Latest version is 0.15.9
+2022-10-03 21:12:05 App is up to date.
+2022-10-03 22:12:05 Checking for update using Github
+2022-10-03 22:12:06 Success.
+2022-10-03 22:12:06 Latest version is 0.15.9
+2022-10-03 22:12:06 App is up to date.
+2022-10-03 23:12:05 Checking for update using Github
+2022-10-03 23:12:11 Success.
+2022-10-03 23:12:11 Latest version is 0.15.9
+2022-10-03 23:12:11 App is up to date.
+2022-10-04 00:12:05 Checking for update using Github
+2022-10-04 00:12:11 Success.
+2022-10-04 00:12:11 Latest version is 0.15.9
+2022-10-04 00:12:11 App is up to date.
+2022-10-04 01:12:05 Checking for update using Github
+2022-10-04 01:12:11 Success.
+2022-10-04 01:12:11 Latest version is 0.15.9
+2022-10-04 01:12:11 App is up to date.
+2022-10-04 02:12:06 Checking for update using Github
+2022-10-04 02:12:06 Success.
+2022-10-04 02:12:06 Latest version is 0.15.9
+2022-10-04 02:12:06 App is up to date.
+2022-10-04 03:12:06 Checking for update using Github
+2022-10-04 03:12:06 Success.
+2022-10-04 03:12:06 Latest version is 0.15.9
+2022-10-04 03:12:06 App is up to date.
+2022-10-04 04:12:06 Checking for update using Github
+2022-10-04 04:12:11 Success.
+2022-10-04 04:12:11 Latest version is 0.15.9
+2022-10-04 04:12:11 App is up to date.
+2022-10-04 05:12:06 Checking for update using Github
+2022-10-04 05:12:11 Success.
+2022-10-04 05:12:11 Latest version is 0.15.9
+2022-10-04 05:12:11 App is up to date.
+2022-10-04 06:12:06 Checking for update using Github
+2022-10-04 06:12:11 Success.
+2022-10-04 06:12:11 Latest version is 0.15.9
+2022-10-04 06:12:11 App is up to date.
+2022-10-04 07:12:06 Checking for update using Github
+2022-10-04 07:12:06 Success.
+2022-10-04 07:12:06 Latest version is 0.15.9
+2022-10-04 07:12:06 App is up to date.
+2022-10-04 08:12:06 Checking for update using Github
+2022-10-04 08:12:06 Success.
+2022-10-04 08:12:06 Latest version is 0.15.9
+2022-10-04 08:12:06 App is up to date.
+2022-10-04 09:12:06 Checking for update using Github
+2022-10-04 09:12:06 Success.
+2022-10-04 09:12:06 Latest version is 0.15.9
+2022-10-04 09:12:06 App is up to date.
+2022-10-04 10:12:06 Checking for update using Github
+2022-10-04 10:12:06 Success.
+2022-10-04 10:12:06 Latest version is 0.15.9
+2022-10-04 10:12:06 App is up to date.
+2022-10-04 11:12:06 Checking for update using Github
+2022-10-04 11:12:11 Success.
+2022-10-04 11:12:11 Latest version is 0.15.9
+2022-10-04 11:12:11 App is up to date.
+2022-10-04 14:46:32 Checking for update using Github
+2022-10-04 14:46:37 Success.
+2022-10-04 14:46:37 Latest version is 0.15.9
+2022-10-04 14:46:37 App is up to date.
+2022-10-04 15:46:32 Checking for update using Github
+2022-10-04 15:46:37 Success.
+2022-10-04 15:46:37 Latest version is 0.15.9
+2022-10-04 15:46:37 App is up to date.
+2022-10-04 16:46:32 Checking for update using Github
+2022-10-04 16:46:33 Success.
+2022-10-04 16:46:33 Latest version is 0.15.9
+2022-10-04 16:46:33 App is up to date.
+2022-10-04 17:46:32 Checking for update using Github
+2022-10-04 17:46:38 Success.
+2022-10-04 17:46:38 Latest version is 0.15.9
+2022-10-04 17:46:38 App is up to date.
+2022-10-04 18:46:32 Checking for update using Github
+2022-10-04 18:46:38 Success.
+2022-10-04 18:46:38 Latest version is 0.15.9
+2022-10-04 18:46:38 App is up to date.
+2022-10-04 19:46:32 Checking for update using Github
+2022-10-04 19:46:38 Success.
+2022-10-04 19:46:38 Latest version is 0.15.9
+2022-10-04 19:46:38 App is up to date.
+2022-10-04 20:46:33 Checking for update using Github
+2022-10-04 20:46:33 Success.
+2022-10-04 20:46:33 Latest version is 0.15.9
+2022-10-04 20:46:33 App is up to date.
+2022-10-04 21:46:33 Checking for update using Github
+2022-10-04 21:46:33 Success.
+2022-10-04 21:46:33 Latest version is 0.15.9
+2022-10-04 21:46:33 App is up to date.
+2022-10-04 22:46:33 Checking for update using Github
+2022-10-04 22:46:38 Success.
+2022-10-04 22:46:38 Latest version is 0.15.9
+2022-10-04 22:46:38 App is up to date.
+2022-10-04 23:46:33 Checking for update using Github
+2022-10-04 23:46:38 Success.
+2022-10-04 23:46:38 Latest version is 0.15.9
+2022-10-04 23:46:38 App is up to date.
+2022-10-05 00:46:33 Checking for update using Github
+2022-10-05 00:46:33 Success.
+2022-10-05 00:46:33 Latest version is 0.15.9
+2022-10-05 00:46:33 App is up to date.
+2022-10-05 01:46:33 Checking for update using Github
+2022-10-05 01:46:34 Success.
+2022-10-05 01:46:34 Latest version is 0.15.9
+2022-10-05 01:46:34 App is up to date.
+2022-10-05 02:46:33 Checking for update using Github
+2022-10-05 02:46:33 Success.
+2022-10-05 02:46:33 Latest version is 0.15.9
+2022-10-05 02:46:33 App is up to date.
+2022-10-05 03:46:33 Checking for update using Github
+2022-10-05 03:46:38 Success.
+2022-10-05 03:46:38 Latest version is 0.15.9
+2022-10-05 03:46:38 App is up to date.
+2022-10-05 04:46:33 Checking for update using Github
+2022-10-05 04:46:33 Failed to check for update using Github (net::ERR_INTERNET_DISCONNECTED)
+2022-10-05 04:46:33 Checking for update using obsidian.md
+2022-10-05 04:46:33 Failed to check for update using obsidian.md (net::ERR_INTERNET_DISCONNECTED)
+2022-10-05 05:46:33 Checking for update using Github
+2022-10-05 05:46:34 Success.
+2022-10-05 05:46:34 Latest version is 0.15.9
+2022-10-05 05:46:34 App is up to date.
+2022-10-05 06:46:33 Checking for update using Github
+2022-10-05 06:46:39 Success.
+2022-10-05 06:46:39 Latest version is 0.15.9
+2022-10-05 06:46:39 App is up to date.
+2022-10-05 07:46:33 Checking for update using Github
+2022-10-05 07:46:39 Success.
+2022-10-05 07:46:39 Latest version is 0.15.9
+2022-10-05 07:46:39 App is up to date.
+2022-10-05 08:46:33 Checking for update using Github
+2022-10-05 08:46:34 Success.
+2022-10-05 08:46:34 Latest version is 0.15.9
+2022-10-05 08:46:34 App is up to date.
+2022-10-05 09:46:34 Checking for update using Github
+2022-10-05 09:46:34 Success.
+2022-10-05 09:46:34 Latest version is 0.15.9
+2022-10-05 09:46:34 App is up to date.
+2022-10-05 10:46:34 Checking for update using Github
+2022-10-05 10:46:39 Success.
+2022-10-05 10:46:39 Latest version is 0.15.9
+2022-10-05 10:46:39 App is up to date.
+2022-10-05 11:46:34 Checking for update using Github
+2022-10-05 11:46:39 Success.
+2022-10-05 11:46:39 Latest version is 0.15.9
+2022-10-05 11:46:39 App is up to date.
+2022-10-05 12:46:34 Checking for update using Github
+2022-10-05 12:46:34 Success.
+2022-10-05 12:46:34 Latest version is 0.15.9
+2022-10-05 12:46:34 App is up to date.
+2022-10-05 13:46:34 Checking for update using Github
+2022-10-05 13:46:34 Success.
+2022-10-05 13:46:34 Latest version is 0.15.9
+2022-10-05 13:46:34 App is up to date.
+2022-10-05 14:46:34 Checking for update using Github
+2022-10-05 14:46:39 Success.
+2022-10-05 14:46:39 Latest version is 0.15.9
+2022-10-05 14:46:39 App is up to date.
+2022-10-05 15:46:34 Checking for update using Github
+2022-10-05 15:46:39 Success.
+2022-10-05 15:46:39 Latest version is 0.15.9
+2022-10-05 15:46:39 App is up to date.
+2022-10-05 16:46:34 Checking for update using Github
+2022-10-05 16:46:34 Success.
+2022-10-05 16:46:34 Latest version is 0.15.9
+2022-10-05 16:46:34 App is up to date.
+2022-10-05 17:46:34 Checking for update using Github
+2022-10-05 17:46:34 Success.
+2022-10-05 17:46:34 Latest version is 0.15.9
+2022-10-05 17:46:34 App is up to date.
+2022-10-05 18:46:34 Checking for update using Github
+2022-10-05 18:46:34 Success.
+2022-10-05 18:46:34 Latest version is 0.15.9
+2022-10-05 18:46:34 App is up to date.
+2022-10-05 19:46:34 Checking for update using Github
+2022-10-05 19:46:40 Success.
+2022-10-05 19:46:40 Latest version is 0.15.9
+2022-10-05 19:46:40 App is up to date.
+2022-10-05 20:46:34 Checking for update using Github
+2022-10-05 20:46:40 Success.
+2022-10-05 20:46:40 Latest version is 0.15.9
+2022-10-05 20:46:40 App is up to date.
+2022-10-05 21:46:34 Checking for update using Github
+2022-10-05 21:46:35 Success.
+2022-10-05 21:46:35 Latest version is 0.15.9
+2022-10-05 21:46:35 App is up to date.
+2022-10-05 22:46:34 Checking for update using Github
+2022-10-05 22:46:40 Success.
+2022-10-05 22:46:40 Latest version is 0.15.9
+2022-10-05 22:46:40 App is up to date.
+2022-10-05 23:46:34 Checking for update using Github
+2022-10-05 23:46:35 Success.
+2022-10-05 23:46:35 Latest version is 0.15.9
+2022-10-05 23:46:35 App is up to date.
+2022-10-06 00:46:35 Checking for update using Github
+2022-10-06 00:46:35 Success.
+2022-10-06 00:46:35 Latest version is 0.15.9
+2022-10-06 00:46:35 App is up to date.
+2022-10-06 01:46:35 Checking for update using Github
+2022-10-06 01:46:35 Success.
+2022-10-06 01:46:35 Latest version is 0.15.9
+2022-10-06 01:46:35 App is up to date.
+2022-10-06 02:46:35 Checking for update using Github
+2022-10-06 02:46:40 Success.
+2022-10-06 02:46:40 Latest version is 0.15.9
+2022-10-06 02:46:40 App is up to date.
+2022-10-06 03:46:35 Checking for update using Github
+2022-10-06 03:46:40 Success.
+2022-10-06 03:46:40 Latest version is 0.15.9
+2022-10-06 03:46:40 App is up to date.
+2022-10-06 04:46:35 Checking for update using Github
+2022-10-06 04:46:40 Success.
+2022-10-06 04:46:40 Latest version is 0.15.9
+2022-10-06 04:46:40 App is up to date.
+2022-10-06 05:46:35 Checking for update using Github
+2022-10-06 05:46:35 Success.
+2022-10-06 05:46:35 Latest version is 0.15.9
+2022-10-06 05:46:35 App is up to date.
+2022-10-11 12:34:23 Loading updated app package /home/noncomplete/.config/obsidian/obsidian-0.15.9.asar
+2022-10-11 12:34:24 Checking for update using Github
+2022-10-11 12:34:29 Success.
+2022-10-11 12:34:29 Latest version is 0.15.9
+2022-10-11 12:34:29 App is up to date.
+2022-10-11 13:34:23 Checking for update using Github
+2022-10-11 13:34:29 Success.
+2022-10-11 13:34:29 Latest version is 0.15.9
+2022-10-11 13:34:29 App is up to date.
+2022-10-11 14:34:23 Checking for update using Github
+2022-10-11 14:34:24 Success.
+2022-10-11 14:34:24 Latest version is 0.15.9
+2022-10-11 14:34:24 App is up to date.
+2022-10-11 15:34:24 Checking for update using Github
+2022-10-11 15:34:24 Success.
+2022-10-11 15:34:24 Latest version is 0.15.9
+2022-10-11 15:34:24 App is up to date.
+2022-10-11 16:34:24 Checking for update using Github
+2022-10-11 16:34:24 Success.
+2022-10-11 16:34:24 Latest version is 0.15.9
+2022-10-11 16:34:24 App is up to date.
+2022-10-11 17:34:24 Checking for update using Github
+2022-10-11 17:34:24 Success.
+2022-10-11 17:34:24 Latest version is 0.15.9
+2022-10-11 17:34:24 App is up to date.
+2022-10-11 18:34:24 Checking for update using Github
+2022-10-11 18:34:24 Success.
+2022-10-11 18:34:24 Latest version is 0.15.9
+2022-10-11 18:34:24 App is up to date.
+2022-10-11 19:34:24 Checking for update using Github
+2022-10-11 19:34:24 Success.
+2022-10-11 19:34:24 Latest version is 0.15.9
+2022-10-11 19:34:24 App is up to date.
+2022-10-11 20:34:24 Checking for update using Github
+2022-10-11 20:34:29 Success.
+2022-10-11 20:34:29 Latest version is 0.15.9
+2022-10-11 20:34:29 App is up to date.
+2022-10-11 21:34:24 Checking for update using Github
+2022-10-11 21:34:24 Success.
+2022-10-11 21:34:24 Latest version is 0.15.9
+2022-10-11 21:34:24 App is up to date.
+2022-10-11 22:34:24 Checking for update using Github
+2022-10-11 22:34:24 Success.
+2022-10-11 22:34:24 Latest version is 0.15.9
+2022-10-11 22:34:24 App is up to date.
+2022-10-11 23:34:24 Checking for update using Github
+2022-10-11 23:34:24 Success.
+2022-10-11 23:34:24 Latest version is 0.15.9
+2022-10-11 23:34:24 App is up to date.
+2022-10-12 00:34:24 Checking for update using Github
+2022-10-12 00:34:29 Success.
+2022-10-12 00:34:29 Latest version is 0.15.9
+2022-10-12 00:34:29 App is up to date.
+2022-10-12 01:34:24 Checking for update using Github
+2022-10-12 01:34:30 Success.
+2022-10-12 01:34:30 Latest version is 0.15.9
+2022-10-12 01:34:30 App is up to date.
+2022-10-12 02:34:24 Checking for update using Github
+2022-10-12 02:34:30 Success.
+2022-10-12 02:34:30 Latest version is 0.15.9
+2022-10-12 02:34:30 App is up to date.
+2022-10-12 03:34:24 Checking for update using Github
+2022-10-12 03:34:25 Success.
+2022-10-12 03:34:25 Latest version is 0.15.9
+2022-10-12 03:34:25 App is up to date.
+2022-10-12 04:34:24 Checking for update using Github
+2022-10-12 04:34:30 Success.
+2022-10-12 04:34:30 Latest version is 0.15.9
+2022-10-12 04:34:30 App is up to date.
+2022-10-12 05:34:25 Checking for update using Github
+2022-10-12 05:34:30 Success.
+2022-10-12 05:34:30 Latest version is 0.15.9
+2022-10-12 05:34:30 App is up to date.
+2022-10-12 06:34:25 Checking for update using Github
+2022-10-12 06:34:30 Success.
+2022-10-12 06:34:30 Latest version is 0.15.9
+2022-10-12 06:34:30 App is up to date.
+2022-10-12 07:34:25 Checking for update using Github
+2022-10-12 07:34:25 Success.
+2022-10-12 07:34:25 Latest version is 0.15.9
+2022-10-12 07:34:25 App is up to date.
+2022-10-12 08:34:25 Checking for update using Github
+2022-10-12 08:34:25 Success.
+2022-10-12 08:34:25 Latest version is 0.15.9
+2022-10-12 08:34:25 App is up to date.
+2022-10-12 09:34:25 Checking for update using Github
+2022-10-12 09:34:30 Success.
+2022-10-12 09:34:30 Latest version is 0.15.9
+2022-10-12 09:34:30 App is up to date.
+2022-10-12 10:34:25 Checking for update using Github
+2022-10-12 10:34:25 Success.
+2022-10-12 10:34:25 Latest version is 0.15.9
+2022-10-12 10:34:25 App is up to date.
+2022-10-12 11:34:25 Checking for update using Github
+2022-10-12 11:34:25 Success.
+2022-10-12 11:34:25 Latest version is 0.15.9
+2022-10-12 11:34:25 App is up to date.
+2022-10-12 12:34:25 Checking for update using Github
+2022-10-12 12:34:25 Success.
+2022-10-12 12:34:25 Latest version is 0.15.9
+2022-10-12 12:34:25 App is up to date.
+2022-10-12 13:34:25 Checking for update using Github
+2022-10-12 13:34:30 Success.
+2022-10-12 13:34:30 Latest version is 0.15.9
+2022-10-12 13:34:30 App is up to date.
+2022-10-17 14:25:18 Loading updated app package /home/noncomplete/.config/obsidian/obsidian-0.15.9.asar
+2022-10-17 14:25:18 Checking for update using Github
+2022-10-17 14:25:25 Success.
+2022-10-17 14:25:25 Latest version is 1.0.0
+2022-10-17 14:25:25 Downloading update from https://github.com/obsidianmd/obsidian-releases/releases/download/v1.0.0/obsidian-1.0.0.asar.gz
+2022-10-17 14:25:35 Verifying hash & signature. Size= 5637590
+2022-10-17 14:25:35 Saving file
+2022-10-17 14:25:35 Update complete.
+2022-10-17 15:49:18 Loading updated app package /home/noncomplete/.config/obsidian/obsidian-1.0.0.asar
+2022-10-17 15:49:19 Checking for update using Github
+2022-10-17 15:49:19 Success.
+2022-10-17 15:49:19 Latest version is 1.0.0
+2022-10-17 15:49:19 App is up to date.
+2022-10-17 15:52:31 Loading updated app package /home/noncomplete/.config/obsidian/obsidian-1.0.0.asar
+2022-10-17 15:52:31 Checking for update using Github
+2022-10-17 15:52:31 Success.
+2022-10-17 15:52:31 Latest version is 1.0.0
+2022-10-17 15:52:31 App is up to date.
+2022-10-17 16:52:31 Checking for update using Github
+2022-10-17 16:52:31 Success.
+2022-10-17 16:52:31 Latest version is 1.0.0
+2022-10-17 16:52:31 App is up to date.
+2022-10-17 17:52:31 Checking for update using Github
+2022-10-17 17:52:36 Success.
+2022-10-17 17:52:36 Latest version is 1.0.0
+2022-10-17 17:52:36 App is up to date.
+2022-10-17 18:52:31 Checking for update using Github
+2022-10-17 18:52:31 Success.
+2022-10-17 18:52:31 Latest version is 1.0.0
+2022-10-17 18:52:31 App is up to date.
+2022-10-17 19:52:31 Checking for update using Github
+2022-10-17 19:52:31 Success.
+2022-10-17 19:52:31 Latest version is 1.0.0
+2022-10-17 19:52:31 App is up to date.
+2022-10-17 20:52:31 Checking for update using Github
+2022-10-17 20:52:31 Success.
+2022-10-17 20:52:31 Latest version is 1.0.0
+2022-10-17 20:52:31 App is up to date.
+2022-10-17 21:52:31 Checking for update using Github
+2022-10-17 21:52:36 Success.
+2022-10-17 21:52:36 Latest version is 1.0.0
+2022-10-17 21:52:36 App is up to date.
+2022-10-17 22:52:31 Checking for update using Github
+2022-10-17 22:52:36 Success.
+2022-10-17 22:52:36 Latest version is 1.0.0
+2022-10-17 22:52:36 App is up to date.
+2022-10-17 23:52:31 Checking for update using Github
+2022-10-17 23:52:36 Success.
+2022-10-17 23:52:36 Latest version is 1.0.0
+2022-10-17 23:52:36 App is up to date.
+2022-10-18 00:52:31 Checking for update using Github
+2022-10-18 00:52:36 Success.
+2022-10-18 00:52:36 Latest version is 1.0.0
+2022-10-18 00:52:36 App is up to date.
+2022-10-18 01:52:31 Checking for update using Github
+2022-10-18 01:52:41 Failed to check for update using Github (net::ERR_NAME_NOT_RESOLVED)
+2022-10-18 01:52:41 Checking for update using obsidian.md
+2022-10-18 01:53:01 Failed to check for update using obsidian.md (net::ERR_NAME_NOT_RESOLVED)
+2022-10-18 02:52:31 Checking for update using Github
+2022-10-18 02:52:36 Success.
+2022-10-18 02:52:36 Latest version is 1.0.0
+2022-10-18 02:52:36 App is up to date.
+2022-10-18 03:52:31 Checking for update using Github
+2022-10-18 03:52:37 Success.
+2022-10-18 03:52:37 Latest version is 1.0.0
+2022-10-18 03:52:37 App is up to date.
+2022-10-18 04:52:31 Checking for update using Github
+2022-10-18 04:52:32 Success.
+2022-10-18 04:52:32 Latest version is 1.0.0
+2022-10-18 04:52:32 App is up to date.
+2022-10-18 05:52:31 Checking for update using Github
+2022-10-18 05:52:37 Success.
+2022-10-18 05:52:37 Latest version is 1.0.0
+2022-10-18 05:52:37 App is up to date.
+2022-10-18 06:52:31 Checking for update using Github
+2022-10-18 06:52:37 Success.
+2022-10-18 06:52:37 Latest version is 1.0.0
+2022-10-18 06:52:37 App is up to date.
+2022-10-18 07:52:32 Checking for update using Github
+2022-10-18 07:52:37 Success.
+2022-10-18 07:52:37 Latest version is 1.0.0
+2022-10-18 07:52:37 App is up to date.
+2022-10-18 08:52:32 Checking for update using Github
+2022-10-18 08:52:37 Success.
+2022-10-18 08:52:37 Latest version is 1.0.0
+2022-10-18 08:52:37 App is up to date.
