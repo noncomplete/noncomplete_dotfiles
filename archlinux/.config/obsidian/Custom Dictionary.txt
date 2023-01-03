@@ -1,5 +1,0 @@
-Rustlang
-automata
-enum
-julia
-checksum_v1 = ae5b4d21664c31b6d76b7998cc34e3a6
