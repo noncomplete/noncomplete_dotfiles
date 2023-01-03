@@ -125,7 +125,9 @@ let g:lightline = {
       \ 'colorscheme': 'edge',
       \ }
 
-" Cursorline nvim config (lua code)
+"== DO NOT ADD NON-LUA CONFIG AFTER =="
+
+" Cursorline nvim config (lua code) 
 lua << EOF
 require('nvim-cursorline').setup {
   cursorline = {
