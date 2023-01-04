@@ -1,0 +1,101 @@
+[icons]
+icons = "awesome"
+
+[theme]
+theme = "semi-native"
+[theme.overrides]
+separator = " ⋅ "
+separator_fg = "#134B8E"
+
+#[[block]]
+#block = "focused_window"
+#max_width = 30
+#show_marks = "visible"
+
+[[block]]
+block = "disk_space"
+path = "/"
+info_type = "used"
+format = "$icon $available free"
+#alert_absolute = true
+#unit = "GB"
+alert = 150
+warning = 140
+
+[[block]]
+block = "memory"
+format = " $icon $mem_used_percents.eng(2) used"
+format_alt = " $icon_swap $swap_used_percents used"
+#display_type = "memory"
+#format_mem = "{mem_used_percents}"
+#format_swap = "{swap_used_percents}"
+
+[[block]]
+block = "cpu"
+interval = 1
+format = "$icon  $barchart $utilization"
+
+[[block]]
+block = "temperature"
+#collapsed = false
+interval = 10
+format = "$icon $average"
+chip = "*-isa-*"
+
+[[block]]
+block = "backlight"
+
+[[block]]
+block = "hueshift"
+hue_shifter = "wlsunset"
+step = 50
+click_temp = 3500
+
+[[block]]
+block = "sound"
+
+#[[block]]
+#block = "music"
+#player = "spotify"
+#buttons = ["play", "next"]
+
+[[block]]
+block = "net"
+format = " $icon  $ip ($signal_strength)"
+#on_click = "alacritty -e nmtui"
+#interface_name_exclude = ["br\\-[0-9a-f]{12}", "docker\\d+"]
+
+#[[block]]
+#block = "networkmanager"
+#on_click = "alacritty -e nmtui"
+#interface_name_exclude = ["br\\-[0-9a-f]{12}", "docker\\d+"]
+#interface_name_include = []
+#ap_format = "{ssid^10}"
+
+#[[block]]
+#block = "pomodoro"
+#length = 25
+#break_length = 5
+#message = "Take a break!"
+#break_message = "Back to work!"
+##notifier = "swaynag"
+
+[[block]]
+block = "pomodoro"
+notify_cmd = "notify-send '{msg}'"
+blocking_cmd = false
+
+[[block]]
+block = "time"
+interval = 5
+format = "%a %d/%m/%y %R"
+
+[[block]]
+block = "battery"
+interval = 10
+format = "$icon  $percentage"
+full_format = "$icon  $percentage"
+
+[[block]]
+block = "uptime"
+interval = 3600 # update every hour
