@@ -4,6 +4,7 @@
 #
 # Read `man 5 sway` for a complete reference.
 
+#
 ### Variables
 #
 # Logo key. Use Mod1 for Alt.
@@ -19,8 +20,9 @@ set $term alacritty
 # Note: pass the final command to swaymsg so that the resulting window can be opened
 # on the original workspace that the command was run on.
 #set $menu bemenu-run -c -l 10 -W 0.75 --fn='Iosevka Nerd Font 14'
-set $menu kickoff
-set $window_switcher ~/.local/bin/bemenu-window-focus.sh
+#set $menu kickoff
+set $window_switcher ~/.config/tofi_win_focus.sh
+
 
 # borders
 title_align center
@@ -29,13 +31,18 @@ hide_edge_borders smart
 titlebar_padding 1 2
 
 # fonts
-font pango:Iosevka Nerd Font Bold 8
+font pango:Iosevka Bold 10
 
+#
 ### Program keybinds and autostart
+#
 bindsym $mod+F3 exec pcmanfm
 bindsym $mod+F2 exec firefox
+bindsym $mod+Alt+c exec killall swayidle
 # autostart
 exec --no-startup-id /usr/bin/lxqt-policykit-agent
+exec --no-startup-id udiskie
+exec --no-startup-id sway-audio-idle-inhibit
 
 
 ### Output configuration
@@ -45,7 +52,7 @@ output * bg /usr/share/backgrounds/archlinux/small.png fill
 #
 # Example configuration:
 #
-output HDMI-A-1 resolution 1024x768 position 0,0
+output DP-1 position 0,0
 output eDP-1 position 1024,0
 #
 # You can get the names of your outputs by running: swaymsg -t get_outputs
@@ -62,17 +69,19 @@ exec swayidle -w \
 # This will lock your screen after 300 seconds of inactivity, then turn off
 # your displays after another 300 seconds, and turn your screens back on when
 # resumed. It will also lock your screen before your computer goes to sleep.
+## A manual lock for moving away from the computer
+bindsym $mod+z exec swaylock -f -c 000000
 
 ### Input configuration
 #
 # Example configuration:
 #
-#   input "2:14:SynPS/2_Synaptics_TouchPad" {
-#       dwt enabled
-#       tap enabled
-#       natural_scroll enabled
-#       middle_emulation enabled
-#   }
+input "1267:12375:ELAN1300:00_04F3:3057_Touchpad" {
+    dwt enabled
+    tap enabled
+    natural_scroll enabled
+    middle_emulation enabled
+}
 #
 # You can get the names of your inputs by running: swaymsg -t get_inputs
 # Read `man 5 sway-input` for more information about this section.
@@ -88,7 +97,9 @@ exec swayidle -w \
     bindsym $mod+Shift+q kill
 
     # Start your launcher
-    bindsym $mod+d exec $menu
+    set $drun tofi-drun --drun-launch=true
+    bindsym $mod+d exec $drun
+    #bindsym $mod+d exec $menu
     bindsym $mod+Shift+d exec $window_switcher
 
     # Drag floating windows by holding down $mod and left mouse button.
@@ -102,7 +113,8 @@ exec swayidle -w \
     bindsym $mod+Shift+c reload
 
     # Exit sway (logs you out of your Wayland session)
-    bindsym $mod+Shift+e exec swaynag -t warning -m 'You pressed the exit shortcut. Do you really want to exit sway? This will end your Wayland session.' -B 'Yes, exit sway' 'swaymsg exit'
+    #bindsym $mod+Shift+e exec swaynag -t warning -m 'You pressed the exit shortcut. Do you really want to exit sway? This will end your Wayland session.' -B 'Yes, exit sway' 'swaymsg exit'
+    bindsym $mod+Shift+e exec /home/noncomplete/.config/tofi_power.sh
 #
 # Moving around:
 #
@@ -218,13 +230,24 @@ mode "resize" {
 }
 bindsym $mod+r mode "resize"
 
+
+#
+# App-specific Behaviour:
+#
+#xwayland
+for_window [class="firefox"] inhibit_idle fullscreen
+#wayland
+for_window [app_id="firefox"] inhibit_idle fullscreen
+for_window [app_id="mpv"] inhibit_idle fullscreen
+for_window [app_id="lxqt-policykit-agent"] floating enable
+
 #
 # Status Bar:
 #
 # Read `man 5 sway-bar` for more information about this section.
 bar {
     position bottom
-
+    font pango:Iosevka Nerd Font Bold 9
     # When the status_command prints a new line to stdout, swaybar updates.
     # The default just shows the current date and time.
     status_command i3status-rs
@@ -246,4 +269,7 @@ client.unfocused          #333333 #333333 #888888 #292d2e
 client.urgent             #2f343a #900000 #ffffff #900000
 client.placeholder        #000000 #0c0c0c #ffffff #000000   #0c0c0c
 
+#
+### Apply settings from swaysettings-git
+#
 include /etc/sway/config.d/*
