@@ -15,7 +15,7 @@ set $down j
 set $up k
 set $right l
 # Your preferred terminal emulator
-set $term alacritty
+set $term wezterm
 # Your preferred application launcher
 # Note: pass the final command to swaymsg so that the resulting window can be opened
 # on the original workspace that the command was run on.
@@ -26,16 +26,17 @@ set $window_switcher ~/.config/tofi_win_focus.sh
 
 # borders
 title_align center
-default_border normal
+default_border pixel 2
 hide_edge_borders smart
 titlebar_padding 1 2
 
 # fonts
-font pango:Iosevka Bold 10
+font pango:Iosevka Nerd Font Bold 10
 
 #
 ### Program keybinds and autostart
 #
+bindsym $mod+n exec leafpad
 bindsym $mod+F3 exec pcmanfm
 bindsym $mod+F2 exec firefox
 bindsym $mod+Alt+c exec killall swayidle
@@ -62,15 +63,15 @@ output eDP-1 position 1024,0
 # Example configuration:
 #
 exec swayidle -w \
-         timeout 300 'swaylock -f -c 000000' \
+         timeout 300 'bash -e /home/noncomplete/lock.sh' \
          timeout 600 'swaymsg "output * dpms off"' resume 'swaymsg "output * dpms on"' \
-         before-sleep 'swaylock -f -c 000000'
+         before-sleep 'bash -e /home/noncomplete/lock.sh'
 #
 # This will lock your screen after 300 seconds of inactivity, then turn off
 # your displays after another 300 seconds, and turn your screens back on when
 # resumed. It will also lock your screen before your computer goes to sleep.
 ## A manual lock for moving away from the computer
-bindsym $mod+z exec swaylock -f -c 000000
+bindsym $mod+z exec /home/noncomplete/lock.sh
 
 ### Input configuration
 #
@@ -99,7 +100,7 @@ input "1267:12375:ELAN1300:00_04F3:3057_Touchpad" {
     # Start your launcher
     set $drun tofi-drun --drun-launch=true
     bindsym $mod+d exec $drun
-    #bindsym $mod+d exec $menu
+    bindsym $mod+Alt+d exec tofi-run
     bindsym $mod+Shift+d exec $window_switcher
 
     # Drag floating windows by holding down $mod and left mouse button.
@@ -245,19 +246,23 @@ for_window [app_id="lxqt-policykit-agent"] floating enable
 # Status Bar:
 #
 # Read `man 5 sway-bar` for more information about this section.
-bar {
-    position bottom
-    font pango:Iosevka Nerd Font Bold 9
-    # When the status_command prints a new line to stdout, swaybar updates.
-    # The default just shows the current date and time.
-    status_command i3status-rs
+#bar {
+#    position bottom
+#    font pango:Iosevka Nerd Font Bold 9
+#    # When the status_command prints a new line to stdout, swaybar updates.
+#    # The default just shows the current date and time.
+#    status_command i3status-rs
+#
+#    colors {
+#        statusline #ffffff
+#        background #2C2E34
+#        inactive_workspace #32323200 #32323200 #5c5c5c
+#    }
+#}
+# 
+## Waybar exec
+exec_always killall waybar; sleep 1; waybar
 
-    colors {
-        statusline #ffffff
-        background #2C2E34
-        inactive_workspace #32323200 #32323200 #5c5c5c
-    }
-}
 
 #
 # Color setup

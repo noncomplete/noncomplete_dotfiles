@@ -7,19 +7,7 @@
 
 alias ls='ls --color=auto'
 PS1='[\u@\h \W]\$ '
-
-# Variables
-export MOZ_ENABLE_WAYLAND=1
-export QT_QPA_PLATFORM=wayland-egl
-export QT_WAYLAND_FORCE_DPI=physical
-export QT_QPA_PLATFORMTHEME=qt5ct
-
-# Aliases
-alias nnn='nnn -de'
-alias vim='nvim'
-alias :q='exit'
-alias :wq='exit'
-alias :x='exit'
+. "$HOME/.cargo/env"
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
@@ -35,4 +23,17 @@ else
 fi
 unset __conda_setup
 # <<< conda initialize <<<
+
+## More aliases
+alias vi='nvim'
+alias vim='nvim'
+alias :q='exit'
+alias :wq='exit'
+alias :x='exit'
+
+## Variables
+export MOZ_ENABLE_WAYLAND=1
+export QT_QPA_PLATFORM=wayland-egl
+export QT_WAYLAND_FORCE_DPI=physical
+export QT_QPA_PLATFORMTHEME=qt5ct
 

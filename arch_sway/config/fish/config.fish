@@ -4,15 +4,13 @@ end
 
 # Aliases
 alias vim="nvim"
+alias vi="nvim"
 alias :q="exit"
 alias :wq="exit"
 alias :x="exit"
 alias ll="ls -ahl --color"
 alias ls="ls -a --color"
-alias nnn="nnn -de"
-
-# Paths
-fish_add_path /home/noncomplete/.local/bin
+alias tt="taskwarrior-tui"
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
