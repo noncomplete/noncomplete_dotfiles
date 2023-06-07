@@ -15,7 +15,7 @@ set $down j
 set $up k
 set $right l
 # Your preferred terminal emulator
-set $term wezterm
+set $term konsole
 # Your preferred application launcher
 # Note: pass the final command to swaymsg so that the resulting window can be opened
 # on the original workspace that the command was run on.
@@ -38,8 +38,12 @@ font pango:Iosevka Nerd Font Bold 10
 #
 bindsym $mod+n exec leafpad
 bindsym $mod+F3 exec pcmanfm
+bindsym $mod+Shift+F3 exec konsole -e nnn
 bindsym $mod+F2 exec firefox
 bindsym $mod+Alt+c exec killall swayidle
+bindsym $mod+Print exec bash -e grimshot --notify save area /home/noncomplete/Pictures/scr/$(date +%F-%T).png
+bindsym $mod+Shift+Print exec bash -e grimshot --notify copy area
+bindsym $mod+t exec alacritty --title=taskwarrior_tui -e taskwarrior-tui
 # autostart
 exec --no-startup-id /usr/bin/lxqt-policykit-agent
 exec --no-startup-id udiskie
@@ -49,12 +53,14 @@ exec --no-startup-id sway-audio-idle-inhibit
 ### Output configuration
 #
 # Default wallpaper (more resolutions are available in /usr/share/backgrounds/sway/)
-output * bg /usr/share/backgrounds/archlinux/small.png fill
+#output * bg /usr/share/backgrounds/archlinux/small.png fill
+output * bg /home/noncomplete/Pictures/wallhaven-v9m2r8.png fill
+
 #
-# Example configuration:
+# Example Monitor configuration:
 #
-output DP-1 position 0,0
-output eDP-1 position 1024,0
+output DP-1 position 0,0 mode 1920x1080@60Hz
+output eDP-1 position 1920,0
 #
 # You can get the names of your outputs by running: swaymsg -t get_outputs
 
@@ -237,40 +243,45 @@ bindsym $mod+r mode "resize"
 #
 #xwayland
 for_window [class="firefox"] inhibit_idle fullscreen
+assign [class="thunderbird"] workspace 󱗆 
 #wayland
 for_window [app_id="firefox"] inhibit_idle fullscreen
 for_window [app_id="mpv"] inhibit_idle fullscreen
 for_window [app_id="lxqt-policykit-agent"] floating enable
+for_window [app_id="whatsapp-for-linux"] floating enable
+assign [app_id="org.telegram.desktop"] workspace ' ' 
+assign [title="taskwarrior_tui"] workspace ' ' 
+assign [app_id="transmission-qt"] workspace '󰶹'
 
 #
 # Status Bar:
 #
 # Read `man 5 sway-bar` for more information about this section.
-#bar {
-#    position bottom
-#    font pango:Iosevka Nerd Font Bold 9
-#    # When the status_command prints a new line to stdout, swaybar updates.
-#    # The default just shows the current date and time.
-#    status_command i3status-rs
-#
-#    colors {
-#        statusline #ffffff
-#        background #2C2E34
-#        inactive_workspace #32323200 #32323200 #5c5c5c
-#    }
-#}
+bar {
+    position top
+    font pango:Iosevka Nerd Font Bold 12
+    # When the status_command prints a new line to stdout, swaybar updates.
+    # The default just shows the current date and time.
+    status_command i3status-rs
+
+    colors {
+        statusline #ffffff
+        background #2C2E34
+        inactive_workspace #3C446F #323232 #5c5c5c
+    }
+}
 # 
 ## Waybar exec
-exec_always killall waybar; sleep 1; waybar
+#exec_always killall waybar; sleep 1; waybar
 
 
 #
 # Color setup
 #
 # class                   border  backgr. text    indicator child_border
-client.focused            #2C2E34 #2C2E34 #1996D4 #dddddd
-client.focused_inactive   #333333 #333333 #888888 #292d2e
-client.unfocused          #333333 #333333 #888888 #292d2e
+client.focused            #000000 #000000 #1996D4 #dddddd
+client.focused_inactive   #000000 #000000 #888888 #292d2e
+client.unfocused          #888888 #000000 #888888 #292d2e
 client.urgent             #2f343a #900000 #ffffff #900000
 client.placeholder        #000000 #0c0c0c #ffffff #000000   #0c0c0c
 
