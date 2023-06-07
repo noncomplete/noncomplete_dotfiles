@@ -14,7 +14,7 @@ Plug 'chriskempson/base16-vim'
 Plug 'tpope/vim-fugitive'
 Plug 'huyvohcmc/atlas.vim'
 Plug 'Jorengarenar/vim-darkness'
-Plug 'ervandew/supertab'
+"Plug 'ervandew/supertab'
 "Plug 'romgrk/winteract.vim'
 Plug 'voldikss/vim-floaterm'
 Plug 'voldikss/fzf-floaterm'
@@ -30,7 +30,7 @@ Plug 'widatama/vim-phoenix'
 Plug 'dag/vim-fish'
 Plug 'junegunn/goyo.vim'
 Plug 'lervag/vimtex'
-Plug 'SirVer/ultisnips'
+"Plug 'SirVer/ultisnips'
 Plug 'honza/vim-snippets'
 "Plug 'dylanaraps/wal.vim'
 Plug 'liuchengxu/vim-which-key', { 'on': ['WhichKey', 'WhichKey!'] }
@@ -124,6 +124,37 @@ let g:vim_markdown_folding_disabled=1
 let g:lightline = {
       \ 'colorscheme': 'edge',
       \ }
+
+" Coc.nvim completion behaviour
+inoremap <silent><expr> <TAB>
+      \ coc#pum#visible() ? coc#_select_confirm() :
+      \ coc#expandableOrJumpable() ? "\<C-r>=coc#rpc#request('doKeymap', ['snippets-expand-jump',''])\<CR>" :
+      \ CheckBackspace() ? "\<TAB>" :
+      \ coc#refresh()
+
+function! CheckBackspace() abort
+  let col = col('.') - 1
+  return !col || getline('.')[col - 1]  =~# '\s'
+endfunction
+
+let g:coc_snippet_next = '<tab>'
+
+" vim-startify
+ let g:startify_custom_header =
+       \ startify#pad(split(system('figlet -ck $(date +%T%n%F)'), '\n'))
+
+""inoremap <silent><expr> <cr> coc#pum#visible() ? coc#_select_confirm() : '"\<C-g>u\<CR>"
+
+"" use <tab> to trigger completion and navigate to the next complete item
+"function! CheckBackspace() abort
+"  let col = col('.') - 1
+"  return !col || getline('.')[col - 1]  =~# '\s'
+"endfunction
+"
+"inoremap <silent><expr> <Tab>
+"      \ coc#pum#visible() ? coc#pum#next(1) :
+"      \ CheckBackspace() ? '"\<Tab>" : 'remove the quote'
+"      \ coc#refresh()
 
 "== DO NOT ADD NON-LUA CONFIG AFTER =="
 
